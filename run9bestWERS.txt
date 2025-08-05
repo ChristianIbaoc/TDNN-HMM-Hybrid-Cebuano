@@ -1,0 +1,63 @@
+Directory: exp/mono/decode
+Lowest WER: 65.71
+File: exp/mono/decode/wer_4_1.5
+Full content:
+compute-wer --text --mode=present ark:exp/mono/decode/scoring/text.filt ark:exp/mono/decode/scoring/4.1.5.txt 
+%WER 65.71 [ 502 / 764, 49 ins, 177 del, 276 sub ]
+%SER 90.09 [ 191 / 212 ]
+Scored 212 sentences, 0 not present in hyp.
+---
+Directory: exp/tri1/decode
+Lowest WER: 17.54
+File: exp/tri1/decode/wer_11_0.5
+Full content:
+compute-wer --text --mode=present ark:exp/tri1/decode/scoring/text.filt ark:exp/tri1/decode/scoring/11.0.5.txt 
+%WER 17.54 [ 134 / 764, 12 ins, 51 del, 71 sub ]
+%SER 41.51 [ 88 / 212 ]
+Scored 212 sentences, 0 not present in hyp.
+---
+Directory: exp/tri2/decode
+Lowest WER: 13.09
+File: exp/tri2/decode/wer_14_0.0
+Full content:
+compute-wer --text --mode=present ark:exp/tri2/decode/scoring/text.filt ark:exp/tri2/decode/scoring/14.0.0.txt 
+%WER 13.09 [ 100 / 764, 14 ins, 25 del, 61 sub ]
+%SER 33.49 [ 71 / 212 ]
+Scored 212 sentences, 0 not present in hyp.
+---
+Directory: exp/tri3/decode
+Lowest WER: 18.85
+File: exp/tri3/decode/wer_7_0.5
+Full content:
+compute-wer --text --mode=present ark:exp/tri3/decode/scoring/text.filt ark:exp/tri3/decode/scoring/7.0.5.txt 
+%WER 18.85 [ 144 / 764, 28 ins, 39 del, 77 sub ]
+%SER 43.87 [ 93 / 212 ]
+Scored 212 sentences, 0 not present in hyp.
+---
+Directory: exp/tri3/decode.si/
+Lowest WER: 12.57
+File: exp/tri3/decode.si/wer_6_2.5
+Full content:
+compute-wer --text --mode=present ark:exp/tri3/decode.si/scoring/text.filt ark:exp/tri3/decode.si/scoring/6.2.5.txt 
+%WER 12.57 [ 96 / 764, 20 ins, 20 del, 56 sub ]
+%SER 31.60 [ 67 / 212 ]
+Scored 212 sentences, 0 not present in hyp.
+---
+Directory: exp/chain/tdnn1_sp/decode_test_sw1_tg
+Lowest WER: 6.68
+File: exp/chain/tdnn1_sp/decode_test_sw1_tg/wer_2_3.0
+Full content:
+compute-wer --text --mode=present ark:exp/chain/tdnn1_sp/decode_test_sw1_tg/scoring/text.filt ark:exp/chain/tdnn1_sp/decode_test_sw1_tg/scoring/2.3.0.txt 
+%WER 6.68 [ 51 / 764, 15 ins, 12 del, 24 sub ]
+%SER 16.98 [ 36 / 212 ]
+Scored 212 sentences, 0 not present in hyp.
+---
+Directory: exp/chain/tdnn1_sp_online/decode_test_sw1_tg
+Lowest WER: 7.33
+File: exp/chain/tdnn1_sp_online/decode_test_sw1_tg/wer_3_0.5
+Full content:
+compute-wer --text --mode=present ark:exp/chain/tdnn1_sp_online/decode_test_sw1_tg/scoring/text.filt ark:exp/chain/tdnn1_sp_online/decode_test_sw1_tg/scoring/3.0.5.txt 
+%WER 7.33 [ 56 / 764, 20 ins, 14 del, 22 sub ]
+%SER 17.45 [ 37 / 212 ]
+Scored 212 sentences, 0 not present in hyp.
+---

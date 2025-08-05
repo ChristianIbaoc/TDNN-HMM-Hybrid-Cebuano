@@ -1,0 +1,2 @@
+sp0.9-walazero33m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/WalaZero/walazero33m.wav -t wav - speed 0.9 |
+sp0.9-walazero34m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/WalaZero/walazero34m.wav -t wav - speed 0.9 |

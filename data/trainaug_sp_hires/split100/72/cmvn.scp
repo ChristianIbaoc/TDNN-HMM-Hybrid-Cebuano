@@ -1,0 +1,5 @@
+sp1.1-sp0.9-m15 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_hires/cmvn_trainaug_sp_hires.ark:83110
+sp1.1-sp0.9-m16 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_hires/cmvn_trainaug_sp_hires.ark:83365
+sp1.1-sp0.9-m17 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_hires/cmvn_trainaug_sp_hires.ark:83620
+sp1.1-sp0.9-m18 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_hires/cmvn_trainaug_sp_hires.ark:83875
+sp1.1-sp0.9-m19 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_hires/cmvn_trainaug_sp_hires.ark:84130

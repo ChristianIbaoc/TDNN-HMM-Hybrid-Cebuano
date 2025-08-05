@@ -1,0 +1,3 @@
+akoangamahan99m /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/demo/Akoang_Amahan/akoangamahan99m.wav
+sp0.9-akoangamahan99m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/demo/Akoang_Amahan/akoangamahan99m.wav -t wav - speed 0.9 |
+sp1.1-akoangamahan99m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/demo/Akoang_Amahan/akoangamahan99m.wav -t wav - speed 1.1 |

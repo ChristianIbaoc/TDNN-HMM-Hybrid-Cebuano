@@ -1,0 +1,7 @@
+#GET lengths of the training data
+steps/get_train_ctm.sh --cmd run.pl --use-segments true --frame-shift 0.019 data/trainaug_sp data/lang_test exp/chain/tri5_7d_tree_sp/
+utils/syllable-processor.py exp/chain/tri5_7d_tree_sp/ctm data/local/dict/referenceW2Syll.txt
+utils/syllable-filter-final.py exp/chain/tri5_7d_tree_sp/Output.txt
+
+steps/get_ctm.sh --use-segments true data/test data/lang_test exp/chain/tdnn1_sp/decode_test_sw1_tg
+steps/get_ctm.sh --use-segments true data/test data/lang_test exp/chain/tdnn1_sp_online/decode_test_sw1_tg

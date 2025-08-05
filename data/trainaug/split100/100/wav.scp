@@ -1,0 +1,9 @@
+sp1.1-akoananganak25mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Akoa_Nang_Anak/akoananganak25mSUS.wav -t wav - speed 1.1 |
+sp1.1-akoananganak26mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Akoa_Nang_Anak/akoananganak26mSUS.wav -t wav - speed 1.1 |
+sp1.1-akoangamahan26mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Akoang_Amahan/akoangamahan26mSUS.wav -t wav - speed 1.1 |
+sp1.1-atubangan25mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Atubangan/atubangan25mSUS.wav -t wav - speed 1.1 |
+sp1.1-atubangan26mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Atubangan/atubangan26mSUS.wav -t wav - speed 1.1 |
+sp1.1-mangayokougmenu25mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Mangayo_Ko_Ug_Menu/mangayokougmenu25mSUS.wav -t wav - speed 1.1 |
+sp1.1-mangayokougmenu26mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Mangayo_Ko_Ug_Menu/mangayokougmenu26mSUS.wav -t wav - speed 1.1 |
+sp1.1-siyaangakoangasawa31mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Siya_Ang_Akoang_Asawa/siyaangakoangasawa31mSUS.wav -t wav - speed 1.1 |
+sp1.1-upat25mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Upat/upat25mSUS.wav -t wav - speed 1.1 |

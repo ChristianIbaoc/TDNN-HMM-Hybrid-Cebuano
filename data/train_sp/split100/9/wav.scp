@@ -1,0 +1,2 @@
+sp0.9-kumustaka25m-2 sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Kumusta_Ka/kumustaka25m-2.wav -t wav - speed 0.9 |
+sp0.9-kumustaka25m-3 sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples3/Kumusta_Ka/kumustaka25m-3.wav -t wav - speed 0.9 |

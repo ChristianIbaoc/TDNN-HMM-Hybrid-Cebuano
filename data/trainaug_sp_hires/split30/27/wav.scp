@@ -1,0 +1,606 @@
+sp1.1-ako4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Ako/ako4m.wav -t wav - speed 1.1 | sox --vol 1.236436635108007 -t wav - -t wav - |
+sp1.1-ako5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Ako/ako5m.wav -t wav - speed 1.1 | sox --vol 0.42115803480872066 -t wav - -t wav - |
+sp1.1-ako6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Ako/ako6m.wav -t wav - speed 1.1 | sox --vol 0.6881383256676243 -t wav - -t wav - |
+sp1.1-ako7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Ako/ako7m.wav -t wav - speed 1.1 | sox --vol 0.33642023389272446 -t wav - -t wav - |
+sp1.1-ako8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Ako/ako8m.wav -t wav - speed 1.1 | sox --vol 0.7690232286224687 -t wav - -t wav - |
+sp1.1-ako9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Ako/ako9m.wav -t wav - speed 1.1 | sox --vol 1.2988018624396285 -t wav - -t wav - |
+sp1.1-akoa4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Akoa/akoa4m.wav -t wav - speed 1.1 | sox --vol 0.7811633041714523 -t wav - -t wav - |
+sp1.1-akoa5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Akoa/akoa5m.wav -t wav - speed 1.1 | sox --vol 1.427673277345998 -t wav - -t wav - |
+sp1.1-akoa6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Akoa/akoa6m.wav -t wav - speed 1.1 | sox --vol 1.7426853754579112 -t wav - -t wav - |
+sp1.1-akoa7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Akoa/akoa7m.wav -t wav - speed 1.1 | sox --vol 0.768798266194684 -t wav - -t wav - |
+sp1.1-akoa8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Akoa/akoa8m.wav -t wav - speed 1.1 | sox --vol 1.6296187296186353 -t wav - -t wav - |
+sp1.1-akoa9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Akoa/akoa9m.wav -t wav - speed 1.1 | sox --vol 0.7163175712634846 -t wav - -t wav - |
+sp1.1-akoananganak25mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Akoa_Nang_Anak/akoananganak25mSUS.wav -t wav - speed 1.1 | sox --vol 1.54317173836701 -t wav - -t wav - |
+sp1.1-akoananganak26mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Akoa_Nang_Anak/akoananganak26mSUS.wav -t wav - speed 1.1 | sox --vol 0.5438301632703594 -t wav - -t wav - |
+sp1.1-akoananganak4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Akoa_Nang_Anak/akoananganak4m.wav -t wav - speed 1.1 | sox --vol 0.9512331607789913 -t wav - -t wav - |
+sp1.1-akoananganak5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Akoa_Nang_Anak/akoananganak5m.wav -t wav - speed 1.1 | sox --vol 0.2908738521527874 -t wav - -t wav - |
+sp1.1-akoananganak6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Akoa_Nang_Anak/akoananganak6m.wav -t wav - speed 1.1 | sox --vol 0.7041581190045868 -t wav - -t wav - |
+sp1.1-akoananganak7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Akoa_Nang_Anak/akoananganak7m.wav -t wav - speed 1.1 | sox --vol 1.7033428911503872 -t wav - -t wav - |
+sp1.1-akoananganak8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Akoa_Nang_Anak/akoananganak8m.wav -t wav - speed 1.1 | sox --vol 1.4037364976434674 -t wav - -t wav - |
+sp1.1-akoananganak9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Akoa_Nang_Anak/akoananganak9m.wav -t wav - speed 1.1 | sox --vol 0.3726271267169913 -t wav - -t wav - |
+sp1.1-akoananginahan4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Akoa_Nang_Inahan/akoananginahan4m.wav -t wav - speed 1.1 | sox --vol 1.8746082732538631 -t wav - -t wav - |
+sp1.1-akoananginahan5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Akoa_Nang_Inahan/akoananginahan5m.wav -t wav - speed 1.1 | sox --vol 1.3033759142233 -t wav - -t wav - |
+sp1.1-akoananginahan6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Akoa_Nang_Inahan/akoananginahan6m.wav -t wav - speed 1.1 | sox --vol 0.9463159334476021 -t wav - -t wav - |
+sp1.1-akoananginahan7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Akoa_Nang_Inahan/akoananginahan7m.wav -t wav - speed 1.1 | sox --vol 0.570718678363986 -t wav - -t wav - |
+sp1.1-akoananginahan8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Akoa_Nang_Inahan/akoananginahan8m.wav -t wav - speed 1.1 | sox --vol 1.638804529436962 -t wav - -t wav - |
+sp1.1-akoananginahan9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Akoa_Nang_Inahan/akoananginahan9m.wav -t wav - speed 1.1 | sox --vol 1.1524976126089723 -t wav - -t wav - |
+sp1.1-akoang4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Akoang/akoang4m.wav -t wav - speed 1.1 | sox --vol 1.8754054393042905 -t wav - -t wav - |
+sp1.1-akoang5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Akoang/akoang5m.wav -t wav - speed 1.1 | sox --vol 0.31454161624784815 -t wav - -t wav - |
+sp1.1-akoang6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Akoang/akoang6m.wav -t wav - speed 1.1 | sox --vol 0.23760996487362762 -t wav - -t wav - |
+sp1.1-akoang7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Akoang/akoang7m.wav -t wav - speed 1.1 | sox --vol 0.8385628244548985 -t wav - -t wav - |
+sp1.1-akoang8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Akoang/akoang8m.wav -t wav - speed 1.1 | sox --vol 0.44873870707038643 -t wav - -t wav - |
+sp1.1-akoang9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Akoang/akoang9m.wav -t wav - speed 1.1 | sox --vol 1.0804194760681616 -t wav - -t wav - |
+sp1.1-akoangamahan26mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Akoang_Amahan/akoangamahan26mSUS.wav -t wav - speed 1.1 | sox --vol 1.8094495922064513 -t wav - -t wav - |
+sp1.1-akoangamahan4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Akoang_Amahan/akoangamahan4m.wav -t wav - speed 1.1 | sox --vol 0.3281397990489229 -t wav - -t wav - |
+sp1.1-akoangamahan5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Akoang_Amahan/akoangamahan5m.wav -t wav - speed 1.1 | sox --vol 1.5560441095379474 -t wav - -t wav - |
+sp1.1-akoangamahan7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Akoang_Amahan/akoangamahan7m.wav -t wav - speed 1.1 | sox --vol 0.35267209081199413 -t wav - -t wav - |
+sp1.1-akoangamahan8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Akoang_Amahan/akoangamahan8m.wav -t wav - speed 1.1 | sox --vol 0.9207696685548512 -t wav - -t wav - |
+sp1.1-akoangamahan9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Akoang_Amahan/akoangamahan9m.wav -t wav - speed 1.1 | sox --vol 0.8370745841901193 -t wav - -t wav - |
+sp1.1-akoanganak4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Akoang_Anak/akoanganak4m.wav -t wav - speed 1.1 | sox --vol 1.551463809210416 -t wav - -t wav - |
+sp1.1-akoanganak5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Akoang_Anak/akoanganak5m.wav -t wav - speed 1.1 | sox --vol 0.8819781316178612 -t wav - -t wav - |
+sp1.1-akoanganak6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Akoang_Anak/akoanganak6m.wav -t wav - speed 1.1 | sox --vol 0.8566592986373093 -t wav - -t wav - |
+sp1.1-akoanganak7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Akoang_Anak/akoanganak7m.wav -t wav - speed 1.1 | sox --vol 1.1307195597697777 -t wav - -t wav - |
+sp1.1-akoanganak8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Akoang_Anak/akoanganak8m.wav -t wav - speed 1.1 | sox --vol 1.4594473352958208 -t wav - -t wav - |
+sp1.1-akoanganak9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Akoang_Anak/akoanganak9m.wav -t wav - speed 1.1 | sox --vol 1.757096703979017 -t wav - -t wav - |
+sp1.1-amahan4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Amahan/amahan4m.wav -t wav - speed 1.1 | sox --vol 0.9212733871573934 -t wav - -t wav - |
+sp1.1-amahan6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Amahan/amahan6m.wav -t wav - speed 1.1 | sox --vol 1.694593766753963 -t wav - -t wav - |
+sp1.1-amahan7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Amahan/amahan7m.wav -t wav - speed 1.1 | sox --vol 1.766880981771884 -t wav - -t wav - |
+sp1.1-amahan8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Amahan/amahan8m.wav -t wav - speed 1.1 | sox --vol 0.8685689081027013 -t wav - -t wav - |
+sp1.1-amahan9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Amahan/amahan9m.wav -t wav - speed 1.1 | sox --vol 0.7558563618582193 -t wav - -t wav - |
+sp1.1-anak4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Anak/anak4m.wav -t wav - speed 1.1 | sox --vol 1.2064067225864543 -t wav - -t wav - |
+sp1.1-anak6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Anak/anak6m.wav -t wav - speed 1.1 | sox --vol 0.6416946270110211 -t wav - -t wav - |
+sp1.1-anak7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Anak/anak7m.wav -t wav - speed 1.1 | sox --vol 0.43569682691760403 -t wav - -t wav - |
+sp1.1-anak8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Anak/anak8m.wav -t wav - speed 1.1 | sox --vol 1.8673472786460914 -t wav - -t wav - |
+sp1.1-anak9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Anak/anak9m.wav -t wav - speed 1.1 | sox --vol 0.4015846808993699 -t wav - -t wav - |
+sp1.1-asaang4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Asa_Ang/asaang4m.wav -t wav - speed 1.1 | sox --vol 1.9274174800538035 -t wav - -t wav - |
+sp1.1-asaang5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Asa_Ang/asaang5m.wav -t wav - speed 1.1 | sox --vol 1.2624634638519376 -t wav - -t wav - |
+sp1.1-asaang6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Asa_Ang/asaang6m.wav -t wav - speed 1.1 | sox --vol 1.5952200328117787 -t wav - -t wav - |
+sp1.1-asaang7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Asa_Ang/asaang7m.wav -t wav - speed 1.1 | sox --vol 0.4934430540581182 -t wav - -t wav - |
+sp1.1-asaang8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Asa_Ang/asaang8m.wav -t wav - speed 1.1 | sox --vol 0.8996605068389002 -t wav - -t wav - |
+sp1.1-asaang9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Asa_Ang/asaang9m.wav -t wav - speed 1.1 | sox --vol 1.5005970516969773 -t wav - -t wav - |
+sp1.1-asawa4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Asawa/asawa4m.wav -t wav - speed 1.1 | sox --vol 0.7521644771493124 -t wav - -t wav - |
+sp1.1-asawa5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Asawa/asawa5m.wav -t wav - speed 1.1 | sox --vol 0.45925169685693457 -t wav - -t wav - |
+sp1.1-asawa6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Asawa/asawa6m.wav -t wav - speed 1.1 | sox --vol 0.48149472053807246 -t wav - -t wav - |
+sp1.1-asawa8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Asawa/asawa8m.wav -t wav - speed 1.1 | sox --vol 1.3905829958244837 -t wav - -t wav - |
+sp1.1-atubangan25mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Atubangan/atubangan25mSUS.wav -t wav - speed 1.1 | sox --vol 1.2013209066422477 -t wav - -t wav - |
+sp1.1-atubangan26mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Atubangan/atubangan26mSUS.wav -t wav - speed 1.1 | sox --vol 1.6439311518604842 -t wav - -t wav - |
+sp1.1-atubangan4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Atubangan/atubangan4m.wav -t wav - speed 1.1 | sox --vol 0.1767827815872684 -t wav - -t wav - |
+sp1.1-atubangan5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Atubangan/atubangan5m.wav -t wav - speed 1.1 | sox --vol 0.4549144419596553 -t wav - -t wav - |
+sp1.1-atubangan6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Atubangan/atubangan6m.wav -t wav - speed 1.1 | sox --vol 1.0528471322058368 -t wav - -t wav - |
+sp1.1-atubangan7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Atubangan/atubangan7m.wav -t wav - speed 1.1 | sox --vol 1.164705589797885 -t wav - -t wav - |
+sp1.1-atubangan8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Atubangan/atubangan8m.wav -t wav - speed 1.1 | sox --vol 1.575914784852932 -t wav - -t wav - |
+sp1.1-atubangan9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Atubangan/atubangan9m.wav -t wav - speed 1.1 | sox --vol 1.8736112175961397 -t wav - -t wav - |
+sp1.1-bana4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Bana/bana4m.wav -t wav - speed 1.1 | sox --vol 0.23743208580960534 -t wav - -t wav - |
+sp1.1-bana6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Bana/bana6m.wav -t wav - speed 1.1 | sox --vol 0.9836882475393649 -t wav - -t wav - |
+sp1.1-bana7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Bana/bana7m.wav -t wav - speed 1.1 | sox --vol 1.1385091953417856 -t wav - -t wav - |
+sp1.1-bana8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Bana/bana8m.wav -t wav - speed 1.1 | sox --vol 1.243138865035956 -t wav - -t wav - |
+sp1.1-bana9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Bana/bana9m.wav -t wav - speed 1.1 | sox --vol 1.8625124405139482 -t wav - -t wav - |
+sp1.1-bata4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Bata/bata4m.wav -t wav - speed 1.1 | sox --vol 1.3277261569010634 -t wav - -t wav - |
+sp1.1-bata5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Bata/bata5m.wav -t wav - speed 1.1 | sox --vol 0.7764938893048225 -t wav - -t wav - |
+sp1.1-bata6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Bata/bata6m.wav -t wav - speed 1.1 | sox --vol 0.20791505308769362 -t wav - -t wav - |
+sp1.1-bata7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Bata/bata7m.wav -t wav - speed 1.1 | sox --vol 0.6475352665498995 -t wav - -t wav - |
+sp1.1-bata8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Bata/bata8m.wav -t wav - speed 1.1 | sox --vol 1.7683031066244992 -t wav - -t wav - |
+sp1.1-bata9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Bata/bata9m.wav -t wav - speed 1.1 | sox --vol 1.2202550090841364 -t wav - -t wav - |
+sp1.1-dani4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Dani/dani4m.wav -t wav - speed 1.1 | sox --vol 0.9787044713204888 -t wav - -t wav - |
+sp1.1-dani6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Dani/dani6m.wav -t wav - speed 1.1 | sox --vol 1.6766397062993845 -t wav - -t wav - |
+sp1.1-dani7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Dani/dani7m.wav -t wav - speed 1.1 | sox --vol 1.6367830514965305 -t wav - -t wav - |
+sp1.1-dani9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Dani/dani9m.wav -t wav - speed 1.1 | sox --vol 1.8185988854840198 -t wav - -t wav - |
+sp1.1-didto4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Didto/didto4m.wav -t wav - speed 1.1 | sox --vol 1.0822916513783767 -t wav - -t wav - |
+sp1.1-didto5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Didto/didto5m.wav -t wav - speed 1.1 | sox --vol 0.4127309437654513 -t wav - -t wav - |
+sp1.1-didto7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Didto/didto7m.wav -t wav - speed 1.1 | sox --vol 0.24466517778035868 -t wav - -t wav - |
+sp1.1-didto8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Didto/didto8m.wav -t wav - speed 1.1 | sox --vol 0.5411276500277831 -t wav - -t wav - |
+sp1.1-didto9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Didto/didto9m.wav -t wav - speed 1.1 | sox --vol 1.0469192260379052 -t wav - -t wav - |
+sp1.1-duha4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Duha/duha4m.wav -t wav - speed 1.1 | sox --vol 1.6551825756116043 -t wav - -t wav - |
+sp1.1-duha5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Duha/duha5m.wav -t wav - speed 1.1 | sox --vol 1.4026969908541442 -t wav - -t wav - |
+sp1.1-duha6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Duha/duha6m.wav -t wav - speed 1.1 | sox --vol 1.2894737100474756 -t wav - -t wav - |
+sp1.1-duha7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Duha/duha7m.wav -t wav - speed 1.1 | sox --vol 1.4309626470246237 -t wav - -t wav - |
+sp1.1-duha8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Duha/duha8m.wav -t wav - speed 1.1 | sox --vol 1.846877885384382 -t wav - -t wav - |
+sp1.1-ikaw4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Ikaw/ikaw4m.wav -t wav - speed 1.1 | sox --vol 1.6870308924257678 -t wav - -t wav - |
+sp1.1-ikaw5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Ikaw/ikaw5m.wav -t wav - speed 1.1 | sox --vol 1.9113016127595 -t wav - -t wav - |
+sp1.1-ikaw8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Ikaw/ikaw8m.wav -t wav - speed 1.1 | sox --vol 0.40691592815077243 -t wav - -t wav - |
+sp1.1-ikaw9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Ikaw/ikaw9m.wav -t wav - speed 1.1 | sox --vol 0.8256005371084262 -t wav - -t wav - |
+sp1.1-imoha4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Imoha/imoha4m.wav -t wav - speed 1.1 | sox --vol 0.8959635954474537 -t wav - -t wav - |
+sp1.1-imoha5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Imoha/imoha5m.wav -t wav - speed 1.1 | sox --vol 1.6886190439955509 -t wav - -t wav - |
+sp1.1-imoha6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Imoha/imoha6m.wav -t wav - speed 1.1 | sox --vol 1.5960586408295696 -t wav - -t wav - |
+sp1.1-imoha7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Imoha/imoha7m.wav -t wav - speed 1.1 | sox --vol 1.6293179842721215 -t wav - -t wav - |
+sp1.1-imoha9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Imoha/imoha9m.wav -t wav - speed 1.1 | sox --vol 0.45190438026224394 -t wav - -t wav - |
+sp1.1-imohang4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Imohang/imohang4m.wav -t wav - speed 1.1 | sox --vol 1.1459610930333215 -t wav - -t wav - |
+sp1.1-imohang5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Imohang/imohang5m.wav -t wav - speed 1.1 | sox --vol 1.1999845785816752 -t wav - -t wav - |
+sp1.1-imohang6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Imohang/imohang6m.wav -t wav - speed 1.1 | sox --vol 1.620304496102016 -t wav - -t wav - |
+sp1.1-imohang7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Imohang/imohang7m.wav -t wav - speed 1.1 | sox --vol 1.3666401083589717 -t wav - -t wav - |
+sp1.1-imohang8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Imohang/imohang8m.wav -t wav - speed 1.1 | sox --vol 1.0373923198403086 -t wav - -t wav - |
+sp1.1-imohang9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Imohang/imohang9m.wav -t wav - speed 1.1 | sox --vol 0.7461727588709616 -t wav - -t wav - |
+sp1.1-inahan4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Inahan/inahan4m.wav -t wav - speed 1.1 | sox --vol 0.3637243457837284 -t wav - -t wav - |
+sp1.1-inahan5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Inahan/inahan5m.wav -t wav - speed 1.1 | sox --vol 1.2231804653549319 -t wav - -t wav - |
+sp1.1-inahan6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Inahan/inahan6m.wav -t wav - speed 1.1 | sox --vol 1.363044127812778 -t wav - -t wav - |
+sp1.1-isa4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Isa/isa4m.wav -t wav - speed 1.1 | sox --vol 1.489008452586461 -t wav - -t wav - |
+sp1.1-isa6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Isa/isa6m.wav -t wav - speed 1.1 | sox --vol 0.48247936883665166 -t wav - -t wav - |
+sp1.1-isa7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Isa/isa7m.wav -t wav - speed 1.1 | sox --vol 1.3425697185846 -t wav - -t wav - |
+sp1.1-isa8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Isa/isa8m.wav -t wav - speed 1.1 | sox --vol 1.0369504076079257 -t wav - -t wav - |
+sp1.1-isa9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Isa/isa9m.wav -t wav - speed 1.1 | sox --vol 0.7971339016102702 -t wav - -t wav - |
+sp1.1-iyahaningbana4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Iyaha_Ning_Bana/iyahaningbana4m.wav -t wav - speed 1.1 | sox --vol 1.6165566410660448 -t wav - -t wav - |
+sp1.1-iyahaningbana5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Iyaha_Ning_Bana/iyahaningbana5m.wav -t wav - speed 1.1 | sox --vol 1.7759871940236147 -t wav - -t wav - |
+sp1.1-iyahaningbana6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Iyaha_Ning_Bana/iyahaningbana6m.wav -t wav - speed 1.1 | sox --vol 1.7955382223444571 -t wav - -t wav - |
+sp1.1-iyahaningbana7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Iyaha_Ning_Bana/iyahaningbana7m.wav -t wav - speed 1.1 | sox --vol 0.9398403542915424 -t wav - -t wav - |
+sp1.1-iyahaningbana8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Iyaha_Ning_Bana/iyahaningbana8m.wav -t wav - speed 1.1 | sox --vol 0.737272249415245 -t wav - -t wav - |
+sp1.1-kabalokamagenglish4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Kabalo_Ka_Mag_English/kabalokamagenglish4m.wav -t wav - speed 1.1 | sox --vol 1.0926708686311717 -t wav - -t wav - |
+sp1.1-kabalokamagenglish5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Kabalo_Ka_Mag_English/kabalokamagenglish5m.wav -t wav - speed 1.1 | sox --vol 0.6625068966429883 -t wav - -t wav - |
+sp1.1-kabalokamagenglish6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Kabalo_Ka_Mag_English/kabalokamagenglish6m.wav -t wav - speed 1.1 | sox --vol 1.6741848464652136 -t wav - -t wav - |
+sp1.1-kabalokamagenglish7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Kabalo_Ka_Mag_English/kabalokamagenglish7m.wav -t wav - speed 1.1 | sox --vol 1.551572885646027 -t wav - -t wav - |
+sp1.1-kabalokamagtagalog4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Kabalo_Ka_Mag_Tagalog/kabalokamagtagalog4m.wav -t wav - speed 1.1 | sox --vol 1.5157709316560652 -t wav - -t wav - |
+sp1.1-kabalokamagtagalog7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Kabalo_Ka_Mag_Tagalog/kabalokamagtagalog7m.wav -t wav - speed 1.1 | sox --vol 1.6561643447767176 -t wav - -t wav - |
+sp1.1-kabalokamagtagalog8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Kabalo_Ka_Mag_Tagalog/kabalokamagtagalog8m.wav -t wav - speed 1.1 | sox --vol 1.4856039215724857 -t wav - -t wav - |
+sp1.1-kabalokamagtagalog9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Kabalo_Ka_Mag_Tagalog/kabalokamagtagalog9m.wav -t wav - speed 1.1 | sox --vol 0.1961002150386416 -t wav - -t wav - |
+sp1.1-kumustaka4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Kumusta_Ka/kumustaka4m.wav -t wav - speed 1.1 | sox --vol 1.4264721811893304 -t wav - -t wav - |
+sp1.1-kumustaka5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Kumusta_Ka/kumustaka5m.wav -t wav - speed 1.1 | sox --vol 0.49423010929201006 -t wav - -t wav - |
+sp1.1-kumustaka6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Kumusta_Ka/kumustaka6m.wav -t wav - speed 1.1 | sox --vol 0.655705173747376 -t wav - -t wav - |
+sp1.1-kumustaka7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Kumusta_Ka/kumustaka7m.wav -t wav - speed 1.1 | sox --vol 1.1278983757815566 -t wav - -t wav - |
+sp1.1-kumustaka8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Kumusta_Ka/kumustaka8m.wav -t wav - speed 1.1 | sox --vol 1.3307836596809446 -t wav - -t wav - |
+sp1.1-likod5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Likod/likod5m.wav -t wav - speed 1.1 | sox --vol 1.310676180206363 -t wav - -t wav - |
+sp1.1-likod6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Likod/likod6m.wav -t wav - speed 1.1 | sox --vol 1.9826983491405838 -t wav - -t wav - |
+sp1.1-likod7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Likod/likod7m.wav -t wav - speed 1.1 | sox --vol 0.5663149803111025 -t wav - -t wav - |
+sp1.1-likod8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Likod/likod8m.wav -t wav - speed 1.1 | sox --vol 1.0170629857077054 -t wav - -t wav - |
+sp1.1-likod9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Likod/likod9m.wav -t wav - speed 1.1 | sox --vol 1.658660340635673 -t wav - -t wav - |
+sp1.1-lima4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Lima/lima4m.wav -t wav - speed 1.1 | sox --vol 1.7266173608910051 -t wav - -t wav - |
+sp1.1-lima5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Lima/lima5m.wav -t wav - speed 1.1 | sox --vol 0.21741179325664395 -t wav - -t wav - |
+sp1.1-lima7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Lima/lima7m.wav -t wav - speed 1.1 | sox --vol 0.20234178999856323 -t wav - -t wav - |
+sp1.1-lima8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Lima/lima8m.wav -t wav - speed 1.1 | sox --vol 1.5625748445384235 -t wav - -t wav - |
+sp1.1-lima9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Lima/lima9m.wav -t wav - speed 1.1 | sox --vol 1.5167424594729413 -t wav - -t wav - |
+sp1.1-maayongadlaw4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Maayong_Adlaw/maayongadlaw4m.wav -t wav - speed 1.1 | sox --vol 1.822436716626693 -t wav - -t wav - |
+sp1.1-maayongadlaw5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Maayong_Adlaw/maayongadlaw5m.wav -t wav - speed 1.1 | sox --vol 0.3483972203058532 -t wav - -t wav - |
+sp1.1-maayongadlaw6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Maayong_Adlaw/maayongadlaw6m.wav -t wav - speed 1.1 | sox --vol 1.2157939761635264 -t wav - -t wav - |
+sp1.1-maayongadlaw7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Maayong_Adlaw/maayongadlaw7m.wav -t wav - speed 1.1 | sox --vol 1.1856506095862247 -t wav - -t wav - |
+sp1.1-maayongadlaw8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Maayong_Adlaw/maayongadlaw8m.wav -t wav - speed 1.1 | sox --vol 0.30869967551831 -t wav - -t wav - |
+sp1.1-maayongadlaw9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Maayong_Adlaw/maayongadlaw9m.wav -t wav - speed 1.1 | sox --vol 0.9866967174843297 -t wav - -t wav - |
+sp1.1-maayongbuntag4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Maayong_Buntag/maayongbuntag4m.wav -t wav - speed 1.1 | sox --vol 0.5215980495617658 -t wav - -t wav - |
+sp1.1-maayongbuntag5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Maayong_Buntag/maayongbuntag5m.wav -t wav - speed 1.1 | sox --vol 0.4735140734127049 -t wav - -t wav - |
+sp1.1-maayongbuntag6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Maayong_Buntag/maayongbuntag6m.wav -t wav - speed 1.1 | sox --vol 1.1978162109404977 -t wav - -t wav - |
+sp1.1-maayongbuntag7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Maayong_Buntag/maayongbuntag7m.wav -t wav - speed 1.1 | sox --vol 0.6738688565194301 -t wav - -t wav - |
+sp1.1-maayongbuntag8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Maayong_Buntag/maayongbuntag8m.wav -t wav - speed 1.1 | sox --vol 1.9254669957389035 -t wav - -t wav - |
+sp1.1-maayongbuntag9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Maayong_Buntag/maayongbuntag9m.wav -t wav - speed 1.1 | sox --vol 0.48201714689050085 -t wav - -t wav - |
+sp1.1-maayonggabii4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Maayong_Gabii/maayonggabii4m.wav -t wav - speed 1.1 | sox --vol 0.7765678932487086 -t wav - -t wav - |
+sp1.1-maayonggabii5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Maayong_Gabii/maayonggabii5m.wav -t wav - speed 1.1 | sox --vol 0.5161434177707689 -t wav - -t wav - |
+sp1.1-maayonggabii6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Maayong_Gabii/maayonggabii6m.wav -t wav - speed 1.1 | sox --vol 1.6278347111745237 -t wav - -t wav - |
+sp1.1-maayonggabii7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Maayong_Gabii/maayonggabii7m.wav -t wav - speed 1.1 | sox --vol 1.2503820415536229 -t wav - -t wav - |
+sp1.1-maayonggabii8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Maayong_Gabii/maayonggabii8m.wav -t wav - speed 1.1 | sox --vol 0.39849454904197945 -t wav - -t wav - |
+sp1.1-maayonghapon4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Maayong_Hapon/maayonghapon4m.wav -t wav - speed 1.1 | sox --vol 0.6042627119643369 -t wav - -t wav - |
+sp1.1-maayonghapon5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Maayong_Hapon/maayonghapon5m.wav -t wav - speed 1.1 | sox --vol 1.6787185717442359 -t wav - -t wav - |
+sp1.1-maayonghapon6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Maayong_Hapon/maayonghapon6m.wav -t wav - speed 1.1 | sox --vol 1.9745038156089931 -t wav - -t wav - |
+sp1.1-maayonghapon9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Maayong_Hapon/maayonghapon9m.wav -t wav - speed 1.1 | sox --vol 0.3026288570840253 -t wav - -t wav - |
+sp1.1-maayongudto4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Maayong_Udto/maayongudto4m.wav -t wav - speed 1.1 | sox --vol 1.253053013067395 -t wav - -t wav - |
+sp1.1-maayongudto5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Maayong_Udto/maayongudto5m.wav -t wav - speed 1.1 | sox --vol 0.4302744171994841 -t wav - -t wav - |
+sp1.1-maayongudto6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Maayong_Udto/maayongudto6m.wav -t wav - speed 1.1 | sox --vol 1.493462052255996 -t wav - -t wav - |
+sp1.1-maayongudto7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Maayong_Udto/maayongudto7m.wav -t wav - speed 1.1 | sox --vol 1.0251391361082132 -t wav - -t wav - |
+sp1.1-maayongudto8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Maayong_Udto/maayongudto8m.wav -t wav - speed 1.1 | sox --vol 1.3170704438113126 -t wav - -t wav - |
+sp1.1-maayongudto9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Maayong_Udto/maayongudto9m.wav -t wav - speed 1.1 | sox --vol 1.8419952551728336 -t wav - -t wav - |
+sp1.1-mangayokougmenu25mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Mangayo_Ko_Ug_Menu/mangayokougmenu25mSUS.wav -t wav - speed 1.1 | sox --vol 1.2648126186669886 -t wav - -t wav - |
+sp1.1-mangayokougmenu26mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Mangayo_Ko_Ug_Menu/mangayokougmenu26mSUS.wav -t wav - speed 1.1 | sox --vol 1.9110453630216797 -t wav - -t wav - |
+sp1.1-mangayokougmenu4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Mangayo_Ko_Ug_Menu/mangayokougmenu4m.wav -t wav - speed 1.1 | sox --vol 1.842965274596406 -t wav - -t wav - |
+sp1.1-mangayokougmenu5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Mangayo_Ko_Ug_Menu/mangayokougmenu5m.wav -t wav - speed 1.1 | sox --vol 1.4603312334019711 -t wav - -t wav - |
+sp1.1-mangayokougmenu6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Mangayo_Ko_Ug_Menu/mangayokougmenu6m.wav -t wav - speed 1.1 | sox --vol 0.7659328265028116 -t wav - -t wav - |
+sp1.1-mangayokougmenu7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Mangayo_Ko_Ug_Menu/mangayokougmenu7m.wav -t wav - speed 1.1 | sox --vol 1.2537132189788367 -t wav - -t wav - |
+sp1.1-mangayokougmenu8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Mangayo_Ko_Ug_Menu/mangayokougmenu8m.wav -t wav - speed 1.1 | sox --vol 1.1702867793494744 -t wav - -t wav - |
+sp1.1-mangayokougmenu9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Mangayo_Ko_Ug_Menu/mangayokougmenu9m.wav -t wav - speed 1.1 | sox --vol 0.9428943213867312 -t wav - -t wav - |
+sp1.1-napulo4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Napulo/napulo4m.wav -t wav - speed 1.1 | sox --vol 1.9306602940671298 -t wav - -t wav - |
+sp1.1-napulo5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Napulo/napulo5m.wav -t wav - speed 1.1 | sox --vol 0.2584038321110987 -t wav - -t wav - |
+sp1.1-napulo7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Napulo/napulo7m.wav -t wav - speed 1.1 | sox --vol 1.0689437211181887 -t wav - -t wav - |
+sp1.1-napulo8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Napulo/napulo8m.wav -t wav - speed 1.1 | sox --vol 1.606921292718486 -t wav - -t wav - |
+sp1.1-napulo9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Napulo/napulo9m.wav -t wav - speed 1.1 | sox --vol 1.2163508633337023 -t wav - -t wav - |
+sp1.1-palihog4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Palihog/palihog4m.wav -t wav - speed 1.1 | sox --vol 0.5743918555405598 -t wav - -t wav - |
+sp1.1-palihog5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Palihog/palihog5m.wav -t wav - speed 1.1 | sox --vol 1.9584496449732693 -t wav - -t wav - |
+sp1.1-palihog7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Palihog/palihog7m.wav -t wav - speed 1.1 | sox --vol 0.4782352834876977 -t wav - -t wav - |
+sp1.1-palihog8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Palihog/palihog8m.wav -t wav - speed 1.1 | sox --vol 1.2393801310880606 -t wav - -t wav - |
+sp1.1-palihogkougmenu4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Palihog_Ko_Ug_Menu/palihogkougmenu4m.wav -t wav - speed 1.1 | sox --vol 1.2489589796387968 -t wav - -t wav - |
+sp1.1-palihogkougmenu5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Palihog_Ko_Ug_Menu/palihogkougmenu5m.wav -t wav - speed 1.1 | sox --vol 1.6440632473275787 -t wav - -t wav - |
+sp1.1-palihogkougmenu6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Palihog_Ko_Ug_Menu/palihogkougmenu6m.wav -t wav - speed 1.1 | sox --vol 0.6581765783224243 -t wav - -t wav - |
+sp1.1-palihogkougmenu7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Palihog_Ko_Ug_Menu/palihogkougmenu7m.wav -t wav - speed 1.1 | sox --vol 1.391461784876128 -t wav - -t wav - |
+sp1.1-palihogkougmenu9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Palihog_Ko_Ug_Menu/palihogkougmenu9m.wav -t wav - speed 1.1 | sox --vol 0.47970068766453466 -t wav - -t wav - |
+sp1.1-pito4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Pito/pito4m.wav -t wav - speed 1.1 | sox --vol 0.23373685756659207 -t wav - -t wav - |
+sp1.1-pito5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Pito/pito5m.wav -t wav - speed 1.1 | sox --vol 1.3579969366997977 -t wav - -t wav - |
+sp1.1-pito6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Pito/pito6m.wav -t wav - speed 1.1 | sox --vol 0.3572648185907201 -t wav - -t wav - |
+sp1.1-pito7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Pito/pito7m.wav -t wav - speed 1.1 | sox --vol 0.4804276621493338 -t wav - -t wav - |
+sp1.1-pito8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Pito/pito8m.wav -t wav - speed 1.1 | sox --vol 0.4216526041793848 -t wav - -t wav - |
+sp1.1-sila4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Sila/sila4m.wav -t wav - speed 1.1 | sox --vol 0.45014388266005223 -t wav - -t wav - |
+sp1.1-sila5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Sila/sila5m.wav -t wav - speed 1.1 | sox --vol 1.8088264054024328 -t wav - -t wav - |
+sp1.1-sila6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Sila/sila6m.wav -t wav - speed 1.1 | sox --vol 1.6021517869295083 -t wav - -t wav - |
+sp1.1-sila7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Sila/sila7m.wav -t wav - speed 1.1 | sox --vol 0.4399474988096187 -t wav - -t wav - |
+sp1.1-sila8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Sila/sila8m.wav -t wav - speed 1.1 | sox --vol 1.92484567491484 -t wav - -t wav - |
+sp1.1-sila9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Sila/sila9m.wav -t wav - speed 1.1 | sox --vol 1.68491802194202 -t wav - -t wav - |
+sp1.1-silaakoangmgaanak4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Sila_Akoang_Mga_Anak/silaakoangmgaanak4m.wav -t wav - speed 1.1 | sox --vol 0.5159025566614467 -t wav - -t wav - |
+sp1.1-silaakoangmgaanak5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Sila_Akoang_Mga_Anak/silaakoangmgaanak5m.wav -t wav - speed 1.1 | sox --vol 1.5270243975863322 -t wav - -t wav - |
+sp1.1-silaakoangmgaanak7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Sila_Akoang_Mga_Anak/silaakoangmgaanak7m.wav -t wav - speed 1.1 | sox --vol 0.5914076982182852 -t wav - -t wav - |
+sp1.1-silaakoangmgaanak8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Sila_Akoang_Mga_Anak/silaakoangmgaanak8m.wav -t wav - speed 1.1 | sox --vol 1.308260864127127 -t wav - -t wav - |
+sp1.1-silaakoangmgaanak9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Sila_Akoang_Mga_Anak/silaakoangmgaanak9m.wav -t wav - speed 1.1 | sox --vol 1.1342910105994288 -t wav - -t wav - |
+sp1.1-siya4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Siya/siya4m.wav -t wav - speed 1.1 | sox --vol 1.0452933316335664 -t wav - -t wav - |
+sp1.1-siya5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Siya/siya5m.wav -t wav - speed 1.1 | sox --vol 0.47745848899685084 -t wav - -t wav - |
+sp1.1-siya6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Siya/siya6m.wav -t wav - speed 1.1 | sox --vol 0.8333895407306031 -t wav - -t wav - |
+sp1.1-siya7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Siya/siya7m.wav -t wav - speed 1.1 | sox --vol 0.22835964534556444 -t wav - -t wav - |
+sp1.1-siya8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Siya/siya8m.wav -t wav - speed 1.1 | sox --vol 1.6798896827886827 -t wav - -t wav - |
+sp1.1-siya9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Siya/siya9m.wav -t wav - speed 1.1 | sox --vol 1.4901006413799567 -t wav - -t wav - |
+sp1.1-siyaangakoangasawa31mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Siya_Ang_Akoang_Asawa/siyaangakoangasawa31mSUS.wav -t wav - speed 1.1 | sox --vol 1.760834639125342 -t wav - -t wav - |
+sp1.1-siyaangakoangasawa4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Siya_Ang_Akoang_Asawa/siyaangakoangasawa4m.wav -t wav - speed 1.1 | sox --vol 1.4845138355207321 -t wav - -t wav - |
+sp1.1-siyaangakoangasawa5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Siya_Ang_Akoang_Asawa/siyaangakoangasawa5m.wav -t wav - speed 1.1 | sox --vol 1.5869343312942772 -t wav - -t wav - |
+sp1.1-siyaangakoangasawa6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Siya_Ang_Akoang_Asawa/siyaangakoangasawa6m.wav -t wav - speed 1.1 | sox --vol 0.6804207094495072 -t wav - -t wav - |
+sp1.1-siyaangakoangasawa7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Siya_Ang_Akoang_Asawa/siyaangakoangasawa7m.wav -t wav - speed 1.1 | sox --vol 0.8628442787893393 -t wav - -t wav - |
+sp1.1-siyaangakoangasawa8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Siya_Ang_Akoang_Asawa/siyaangakoangasawa8m.wav -t wav - speed 1.1 | sox --vol 0.9179495558466415 -t wav - -t wav - |
+sp1.1-siyaangakoangasawa9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Siya_Ang_Akoang_Asawa/siyaangakoangasawa9m.wav -t wav - speed 1.1 | sox --vol 0.9345802562325495 -t wav - -t wav - |
+sp1.1-siyam4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Siyam/siyam4m.wav -t wav - speed 1.1 | sox --vol 1.0895153993835143 -t wav - -t wav - |
+sp1.1-siyam5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Siyam/siyam5m.wav -t wav - speed 1.1 | sox --vol 1.9445944438293485 -t wav - -t wav - |
+sp1.1-siyam6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Siyam/siyam6m.wav -t wav - speed 1.1 | sox --vol 0.1647502887989537 -t wav - -t wav - |
+sp1.1-siyam7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Siyam/siyam7m.wav -t wav - speed 1.1 | sox --vol 1.559635314462789 -t wav - -t wav - |
+sp1.1-siyam8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Siyam/siyam8m.wav -t wav - speed 1.1 | sox --vol 0.6151174028699948 -t wav - -t wav - |
+sp1.1-sp1.1-ako10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Ako/ako10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7469152823294594 -t wav - -t wav - |
+sp1.1-sp1.1-ako11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Ako/ako11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.8615865232974668 -t wav - -t wav - |
+sp1.1-sp1.1-ako12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Ako/ako12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.8869722810296112 -t wav - -t wav - |
+sp1.1-sp1.1-ako1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Ako/ako1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.7672849515644282 -t wav - -t wav - |
+sp1.1-sp1.1-ako3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Ako/ako3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.2385157915761202 -t wav - -t wav - |
+sp1.1-sp1.1-ako4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Ako/ako4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.38863527066242337 -t wav - -t wav - |
+sp1.1-sp1.1-akoa10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Akoa/akoa10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5762865107329613 -t wav - -t wav - |
+sp1.1-sp1.1-akoa11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Akoa/akoa11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0089219699091792 -t wav - -t wav - |
+sp1.1-sp1.1-akoa12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Akoa/akoa12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.8821934456721683 -t wav - -t wav - |
+sp1.1-sp1.1-akoa1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Akoa/akoa1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1349955985505964 -t wav - -t wav - |
+sp1.1-sp1.1-akoa2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Akoa/akoa2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9061605826235517 -t wav - -t wav - |
+sp1.1-sp1.1-akoa3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Akoa/akoa3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.990596721576557 -t wav - -t wav - |
+sp1.1-sp1.1-akoa4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Akoa/akoa4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.4382155785649142 -t wav - -t wav - |
+sp1.1-sp1.1-akoananganak10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Akoa_Nang_Anak/akoananganak10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6373690270260591 -t wav - -t wav - |
+sp1.1-sp1.1-akoananganak12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Akoa_Nang_Anak/akoananganak12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1906853140877258 -t wav - -t wav - |
+sp1.1-sp1.1-akoananganak1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Akoa_Nang_Anak/akoananganak1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.2700153215639127 -t wav - -t wav - |
+sp1.1-sp1.1-akoananganak2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Akoa_Nang_Anak/akoananganak2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9805847484590404 -t wav - -t wav - |
+sp1.1-sp1.1-akoananganak3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Akoa_Nang_Anak/akoananganak3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.5112947724641812 -t wav - -t wav - |
+sp1.1-sp1.1-akoananganak4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Akoa_Nang_Anak/akoananganak4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.3891942246337865 -t wav - -t wav - |
+sp1.1-sp1.1-akoananginahan11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Akoa_Nang_Inahan/akoananginahan11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5790751427851168 -t wav - -t wav - |
+sp1.1-sp1.1-akoananginahan12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Akoa_Nang_Inahan/akoananginahan12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7662177311320052 -t wav - -t wav - |
+sp1.1-sp1.1-akoananginahan1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Akoa_Nang_Inahan/akoananginahan1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0850932446570594 -t wav - -t wav - |
+sp1.1-sp1.1-akoananginahan2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Akoa_Nang_Inahan/akoananginahan2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9517189111323905 -t wav - -t wav - |
+sp1.1-sp1.1-akoananginahan3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Akoa_Nang_Inahan/akoananginahan3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9078907057804836 -t wav - -t wav - |
+sp1.1-sp1.1-akoananginahan4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Akoa_Nang_Inahan/akoananginahan4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6184431018952112 -t wav - -t wav - |
+sp1.1-sp1.1-akoang10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Akoang/akoang10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.6219871468555946 -t wav - -t wav - |
+sp1.1-sp1.1-akoang1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Akoang/akoang1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6716073024881573 -t wav - -t wav - |
+sp1.1-sp1.1-akoang2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Akoang/akoang2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.668193353066587 -t wav - -t wav - |
+sp1.1-sp1.1-akoang3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Akoang/akoang3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.41569690664515785 -t wav - -t wav - |
+sp1.1-sp1.1-akoang4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Akoang/akoang4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.31662613201893725 -t wav - -t wav - |
+sp1.1-sp1.1-akoangamahan10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Akoang_Amahan/akoangamahan10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.248566224395739 -t wav - -t wav - |
+sp1.1-sp1.1-akoangamahan11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Akoang_Amahan/akoangamahan11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.5562702577556149 -t wav - -t wav - |
+sp1.1-sp1.1-akoangamahan12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Akoang_Amahan/akoangamahan12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.568183127585065 -t wav - -t wav - |
+sp1.1-sp1.1-akoangamahan1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Akoang_Amahan/akoangamahan1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.1661674000582457 -t wav - -t wav - |
+sp1.1-sp1.1-akoangamahan2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Akoang_Amahan/akoangamahan2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.5844110546591006 -t wav - -t wav - |
+sp1.1-sp1.1-akoangamahan4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Akoang_Amahan/akoangamahan4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.8158873424497132 -t wav - -t wav - |
+sp1.1-sp1.1-akoanganak10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Akoang_Anak/akoanganak10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5086719330091727 -t wav - -t wav - |
+sp1.1-sp1.1-akoanganak11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Akoang_Anak/akoanganak11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8466563021140847 -t wav - -t wav - |
+sp1.1-sp1.1-akoanganak12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Akoang_Anak/akoanganak12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.5672808507555144 -t wav - -t wav - |
+sp1.1-sp1.1-akoanganak1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Akoang_Anak/akoanganak1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1744679331994061 -t wav - -t wav - |
+sp1.1-sp1.1-akoanganak3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Akoang_Anak/akoanganak3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.19358682094157292 -t wav - -t wav - |
+sp1.1-sp1.1-akoanganak4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Akoang_Anak/akoanganak4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1767134117383429 -t wav - -t wav - |
+sp1.1-sp1.1-amahan10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Amahan/amahan10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.5072356548045291 -t wav - -t wav - |
+sp1.1-sp1.1-amahan11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Amahan/amahan11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8442313822192415 -t wav - -t wav - |
+sp1.1-sp1.1-amahan12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Amahan/amahan12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3868819656064444 -t wav - -t wav - |
+sp1.1-sp1.1-amahan1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Amahan/amahan1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.4376352299147899 -t wav - -t wav - |
+sp1.1-sp1.1-amahan2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Amahan/amahan2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9591293070313889 -t wav - -t wav - |
+sp1.1-sp1.1-amahan3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Amahan/amahan3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.3949462406429176 -t wav - -t wav - |
+sp1.1-sp1.1-amahan4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Amahan/amahan4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.1558419173490868 -t wav - -t wav - |
+sp1.1-sp1.1-anak10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Anak/anak10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7931435362094947 -t wav - -t wav - |
+sp1.1-sp1.1-anak11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Anak/anak11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.3836026755079848 -t wav - -t wav - |
+sp1.1-sp1.1-anak12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Anak/anak12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6004787938681011 -t wav - -t wav - |
+sp1.1-sp1.1-anak1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Anak/anak1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0629938047013434 -t wav - -t wav - |
+sp1.1-sp1.1-anak2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Anak/anak2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.17198110025374388 -t wav - -t wav - |
+sp1.1-sp1.1-anak3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Anak/anak3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.7250560687220924 -t wav - -t wav - |
+sp1.1-sp1.1-anak4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Anak/anak4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.4027351107024797 -t wav - -t wav - |
+sp1.1-sp1.1-asaang11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Asa_Ang/asaang11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3274321308487917 -t wav - -t wav - |
+sp1.1-sp1.1-asaang12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Asa_Ang/asaang12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.2237517821016285 -t wav - -t wav - |
+sp1.1-sp1.1-asaang1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Asa_Ang/asaang1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.7298745519234724 -t wav - -t wav - |
+sp1.1-sp1.1-asaang2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Asa_Ang/asaang2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7486530240944161 -t wav - -t wav - |
+sp1.1-sp1.1-asaang3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Asa_Ang/asaang3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.15822429625589568 -t wav - -t wav - |
+sp1.1-sp1.1-asaang4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Asa_Ang/asaang4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.299561238480532 -t wav - -t wav - |
+sp1.1-sp1.1-asawa10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Asawa/asawa10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5073583226393803 -t wav - -t wav - |
+sp1.1-sp1.1-asawa11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Asawa/asawa11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5401325286889749 -t wav - -t wav - |
+sp1.1-sp1.1-asawa12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Asawa/asawa12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3410808658084852 -t wav - -t wav - |
+sp1.1-sp1.1-asawa1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Asawa/asawa1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8229529228387369 -t wav - -t wav - |
+sp1.1-sp1.1-asawa2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Asawa/asawa2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0295872254086793 -t wav - -t wav - |
+sp1.1-sp1.1-asawa3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Asawa/asawa3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.594099933767598 -t wav - -t wav - |
+sp1.1-sp1.1-asawa4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Asawa/asawa4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.111578264603684 -t wav - -t wav - |
+sp1.1-sp1.1-atubangan10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Atubangan/atubangan10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8815480150953243 -t wav - -t wav - |
+sp1.1-sp1.1-atubangan11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Atubangan/atubangan11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.275552747982166 -t wav - -t wav - |
+sp1.1-sp1.1-atubangan12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Atubangan/atubangan12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.2256979541447165 -t wav - -t wav - |
+sp1.1-sp1.1-atubangan1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Atubangan/atubangan1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0986552454765053 -t wav - -t wav - |
+sp1.1-sp1.1-atubangan2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Atubangan/atubangan2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.27714613924650067 -t wav - -t wav - |
+sp1.1-sp1.1-atubangan4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Atubangan/atubangan4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7176957735212609 -t wav - -t wav - |
+sp1.1-sp1.1-bana10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Bana/bana10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0405812983086378 -t wav - -t wav - |
+sp1.1-sp1.1-bana11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Bana/bana11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6618407258201312 -t wav - -t wav - |
+sp1.1-sp1.1-bana12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Bana/bana12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9103785530514088 -t wav - -t wav - |
+sp1.1-sp1.1-bana2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Bana/bana2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7182703067767557 -t wav - -t wav - |
+sp1.1-sp1.1-bana3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Bana/bana3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9535578174770214 -t wav - -t wav - |
+sp1.1-sp1.1-bana4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Bana/bana4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.4872893536074949 -t wav - -t wav - |
+sp1.1-sp1.1-bata10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Bata/bata10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5582771838079805 -t wav - -t wav - |
+sp1.1-sp1.1-bata12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Bata/bata12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0478886833537946 -t wav - -t wav - |
+sp1.1-sp1.1-bata3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Bata/bata3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.7049133056563848 -t wav - -t wav - |
+sp1.1-sp1.1-bata4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Bata/bata4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5685762598028565 -t wav - -t wav - |
+sp1.1-sp1.1-dani10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Dani/dani10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1644833155581895 -t wav - -t wav - |
+sp1.1-sp1.1-dani11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Dani/dani11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.810379864891821 -t wav - -t wav - |
+sp1.1-sp1.1-dani12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Dani/dani12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6354052346734796 -t wav - -t wav - |
+sp1.1-sp1.1-dani1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Dani/dani1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3741290573175842 -t wav - -t wav - |
+sp1.1-sp1.1-dani2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Dani/dani2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.065898399285723 -t wav - -t wav - |
+sp1.1-sp1.1-dani3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Dani/dani3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8372033461210118 -t wav - -t wav - |
+sp1.1-sp1.1-dani4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Dani/dani4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3563936590550665 -t wav - -t wav - |
+sp1.1-sp1.1-didto10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Didto/didto10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.4932522106946533 -t wav - -t wav - |
+sp1.1-sp1.1-didto11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Didto/didto11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.2988464300452593 -t wav - -t wav - |
+sp1.1-sp1.1-didto12f_sussy sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Didto/didto12f_sussy.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9654356122847982 -t wav - -t wav - |
+sp1.1-sp1.1-didto1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Didto/didto1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1230144403439764 -t wav - -t wav - |
+sp1.1-sp1.1-didto2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Didto/didto2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.2528082456750245 -t wav - -t wav - |
+sp1.1-sp1.1-didto3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Didto/didto3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.14914845750093528 -t wav - -t wav - |
+sp1.1-sp1.1-didto4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Didto/didto4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.604151665711286 -t wav - -t wav - |
+sp1.1-sp1.1-duha12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Duha/duha12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.8734369625189703 -t wav - -t wav - |
+sp1.1-sp1.1-duha1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Duha/duha1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.5796822708256959 -t wav - -t wav - |
+sp1.1-sp1.1-duha3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Duha/duha3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.419163538584646 -t wav - -t wav - |
+sp1.1-sp1.1-duha4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Duha/duha4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9130600471626442 -t wav - -t wav - |
+sp1.1-sp1.1-ikaw10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Ikaw/ikaw10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.499955304954708 -t wav - -t wav - |
+sp1.1-sp1.1-ikaw11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Ikaw/ikaw11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7405525481786627 -t wav - -t wav - |
+sp1.1-sp1.1-ikaw1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Ikaw/ikaw1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5677037044076814 -t wav - -t wav - |
+sp1.1-sp1.1-ikaw2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Ikaw/ikaw2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9183703477403211 -t wav - -t wav - |
+sp1.1-sp1.1-ikaw3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Ikaw/ikaw3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.41310287927709566 -t wav - -t wav - |
+sp1.1-sp1.1-ikaw4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Ikaw/ikaw4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.6628587947316782 -t wav - -t wav - |
+sp1.1-sp1.1-imoha10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Imoha/imoha10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3847524519792336 -t wav - -t wav - |
+sp1.1-sp1.1-imoha11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Imoha/imoha11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.33407838950937274 -t wav - -t wav - |
+sp1.1-sp1.1-imoha12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Imoha/imoha12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.782076162560091 -t wav - -t wav - |
+sp1.1-sp1.1-imoha1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Imoha/imoha1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.2819412227707916 -t wav - -t wav - |
+sp1.1-sp1.1-imoha2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Imoha/imoha2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.4891086873235563 -t wav - -t wav - |
+sp1.1-sp1.1-imoha3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Imoha/imoha3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.3397616383854355 -t wav - -t wav - |
+sp1.1-sp1.1-imoha4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Imoha/imoha4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0805736467027458 -t wav - -t wav - |
+sp1.1-sp1.1-imohang11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Imohang/imohang11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.6572709394959608 -t wav - -t wav - |
+sp1.1-sp1.1-imohang1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Imohang/imohang1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1267811398506267 -t wav - -t wav - |
+sp1.1-sp1.1-imohang2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Imohang/imohang2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.5605769329262097 -t wav - -t wav - |
+sp1.1-sp1.1-imohang3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Imohang/imohang3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5683982121102156 -t wav - -t wav - |
+sp1.1-sp1.1-imohang4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Imohang/imohang4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.15226790578355098 -t wav - -t wav - |
+sp1.1-sp1.1-inahan10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Inahan/inahan10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.130816376701494 -t wav - -t wav - |
+sp1.1-sp1.1-inahan11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Inahan/inahan11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5302240837600332 -t wav - -t wav - |
+sp1.1-sp1.1-inahan12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Inahan/inahan12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9099743592153259 -t wav - -t wav - |
+sp1.1-sp1.1-inahan1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Inahan/inahan1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9363517878583907 -t wav - -t wav - |
+sp1.1-sp1.1-inahan2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Inahan/inahan2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.925440140794234 -t wav - -t wav - |
+sp1.1-sp1.1-inahan3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Inahan/inahan3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5132759744179027 -t wav - -t wav - |
+sp1.1-sp1.1-inahan4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Inahan/inahan4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.4216309859954275 -t wav - -t wav - |
+sp1.1-sp1.1-isa10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Isa/isa10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.610969927501047 -t wav - -t wav - |
+sp1.1-sp1.1-isa11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Isa/isa11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6376995989199661 -t wav - -t wav - |
+sp1.1-sp1.1-isa12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Isa/isa12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.29630087180873604 -t wav - -t wav - |
+sp1.1-sp1.1-isa1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Isa/isa1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.974714030688062 -t wav - -t wav - |
+sp1.1-sp1.1-isa2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Isa/isa2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7413747905550155 -t wav - -t wav - |
+sp1.1-sp1.1-isa3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Isa/isa3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9678416862398929 -t wav - -t wav - |
+sp1.1-sp1.1-isa4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Isa/isa4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.143034131656759 -t wav - -t wav - |
+sp1.1-sp1.1-iyahaningbana10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Iyaha_Ning_Bana/iyahaningbana10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.802501566887973 -t wav - -t wav - |
+sp1.1-sp1.1-iyahaningbana11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Iyaha_Ning_Bana/iyahaningbana11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.39888241437090227 -t wav - -t wav - |
+sp1.1-sp1.1-iyahaningbana12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Iyaha_Ning_Bana/iyahaningbana12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5333353069856361 -t wav - -t wav - |
+sp1.1-sp1.1-iyahaningbana1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Iyaha_Ning_Bana/iyahaningbana1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5107953633233608 -t wav - -t wav - |
+sp1.1-sp1.1-iyahaningbana2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Iyaha_Ning_Bana/iyahaningbana2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5037009526911287 -t wav - -t wav - |
+sp1.1-sp1.1-iyahaningbana3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Iyaha_Ning_Bana/iyahaningbana3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.2611203750061985 -t wav - -t wav - |
+sp1.1-sp1.1-iyahaningbana4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Iyaha_Ning_Bana/iyahaningbana4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.5604552874041012 -t wav - -t wav - |
+sp1.1-sp1.1-kabalokamagenglish10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Kabalo_Ka_Mag_English/kabalokamagenglish10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1549836902960062 -t wav - -t wav - |
+sp1.1-sp1.1-kabalokamagenglish11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Kabalo_Ka_Mag_English/kabalokamagenglish11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.6102775554336322 -t wav - -t wav - |
+sp1.1-sp1.1-kabalokamagenglish12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Kabalo_Ka_Mag_English/kabalokamagenglish12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.8059415022553464 -t wav - -t wav - |
+sp1.1-sp1.1-kabalokamagenglish1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Kabalo_Ka_Mag_English/kabalokamagenglish1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3907055727715592 -t wav - -t wav - |
+sp1.1-sp1.1-kabalokamagenglish2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Kabalo_Ka_Mag_English/kabalokamagenglish2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.4391270036960728 -t wav - -t wav - |
+sp1.1-sp1.1-kabalokamagenglish3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Kabalo_Ka_Mag_English/kabalokamagenglish3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.24756039593199813 -t wav - -t wav - |
+sp1.1-sp1.1-kabalokamagenglish4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Kabalo_Ka_Mag_English/kabalokamagenglish4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.440598876220275 -t wav - -t wav - |
+sp1.1-sp1.1-kabalokamagtagalog10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Kabalo_Ka_Mag_Tagalog/kabalokamagtagalog10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.719084094013694 -t wav - -t wav - |
+sp1.1-sp1.1-kabalokamagtagalog12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Kabalo_Ka_Mag_Tagalog/kabalokamagtagalog12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.43204100224940667 -t wav - -t wav - |
+sp1.1-sp1.1-kabalokamagtagalog1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Kabalo_Ka_Mag_Tagalog/kabalokamagtagalog1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7548313017912606 -t wav - -t wav - |
+sp1.1-sp1.1-kabalokamagtagalog2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Kabalo_Ka_Mag_Tagalog/kabalokamagtagalog2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1424230667062274 -t wav - -t wav - |
+sp1.1-sp1.1-kabalokamagtagalog3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Kabalo_Ka_Mag_Tagalog/kabalokamagtagalog3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.64210773060177 -t wav - -t wav - |
+sp1.1-sp1.1-kabalokamagtagalog4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Kabalo_Ka_Mag_Tagalog/kabalokamagtagalog4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.3822305260147121 -t wav - -t wav - |
+sp1.1-sp1.1-kumustaka10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Kumusta_Ka/kumustaka10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9784035667631292 -t wav - -t wav - |
+sp1.1-sp1.1-kumustaka11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Kumusta_Ka/kumustaka11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.4862578230649119 -t wav - -t wav - |
+sp1.1-sp1.1-kumustaka12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Kumusta_Ka/kumustaka12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7311148865165666 -t wav - -t wav - |
+sp1.1-sp1.1-kumustaka1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Kumusta_Ka/kumustaka1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3308343630637725 -t wav - -t wav - |
+sp1.1-sp1.1-kumustaka2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Kumusta_Ka/kumustaka2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7338856135459217 -t wav - -t wav - |
+sp1.1-sp1.1-kumustaka3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Kumusta_Ka/kumustaka3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.7355972374314441 -t wav - -t wav - |
+sp1.1-sp1.1-likod10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Likod/likod10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.22394048793408988 -t wav - -t wav - |
+sp1.1-sp1.1-likod11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Likod/likod11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.17200705190201737 -t wav - -t wav - |
+sp1.1-sp1.1-likod12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Likod/likod12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.38331136626462387 -t wav - -t wav - |
+sp1.1-sp1.1-likod1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Likod/likod1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3281868408323678 -t wav - -t wav - |
+sp1.1-sp1.1-likod2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Likod/likod2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6994630961943622 -t wav - -t wav - |
+sp1.1-sp1.1-likod3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Likod/likod3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0055425064725494 -t wav - -t wav - |
+sp1.1-sp1.1-lima10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Lima/lima10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8846629514734405 -t wav - -t wav - |
+sp1.1-sp1.1-lima12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Lima/lima12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3936150923003392 -t wav - -t wav - |
+sp1.1-sp1.1-lima1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Lima/lima1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1179591781467981 -t wav - -t wav - |
+sp1.1-sp1.1-lima2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Lima/lima2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9190017422487697 -t wav - -t wav - |
+sp1.1-sp1.1-lima3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Lima/lima3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8321477213334016 -t wav - -t wav - |
+sp1.1-sp1.1-lima4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Lima/lima4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8620896925627166 -t wav - -t wav - |
+sp1.1-sp1.1-maayongadlaw10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Maayong_Adlaw/maayongadlaw10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.5189647804798744 -t wav - -t wav - |
+sp1.1-sp1.1-maayongadlaw11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Maayong_Adlaw/maayongadlaw11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5281561900150074 -t wav - -t wav - |
+sp1.1-sp1.1-maayongadlaw12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Maayong_Adlaw/maayongadlaw12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0502253482792676 -t wav - -t wav - |
+sp1.1-sp1.1-maayongadlaw2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Maayong_Adlaw/maayongadlaw2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.7182158703390122 -t wav - -t wav - |
+sp1.1-sp1.1-maayongadlaw4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Maayong_Adlaw/maayongadlaw4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8743766361421148 -t wav - -t wav - |
+sp1.1-sp1.1-maayongbuntag10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Maayong_Buntag/maayongbuntag10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7363422176015191 -t wav - -t wav - |
+sp1.1-sp1.1-maayongbuntag11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Maayong_Buntag/maayongbuntag11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7734724987914705 -t wav - -t wav - |
+sp1.1-sp1.1-maayongbuntag12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Maayong_Buntag/maayongbuntag12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6238635742565337 -t wav - -t wav - |
+sp1.1-sp1.1-maayongbuntag1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Maayong_Buntag/maayongbuntag1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1100745879189442 -t wav - -t wav - |
+sp1.1-sp1.1-maayongbuntag2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Maayong_Buntag/maayongbuntag2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.4368972232243635 -t wav - -t wav - |
+sp1.1-sp1.1-maayongbuntag3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Maayong_Buntag/maayongbuntag3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.4301309004443699 -t wav - -t wav - |
+sp1.1-sp1.1-maayongbuntag4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Maayong_Buntag/maayongbuntag4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5712766581217088 -t wav - -t wav - |
+sp1.1-sp1.1-maayonggabii10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Maayong_Gabii/maayonggabii10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.173412909799488 -t wav - -t wav - |
+sp1.1-sp1.1-maayonggabii11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Maayong_Gabii/maayonggabii11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8747450911346508 -t wav - -t wav - |
+sp1.1-sp1.1-maayonggabii12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Maayong_Gabii/maayonggabii12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.991933748572515 -t wav - -t wav - |
+sp1.1-sp1.1-maayonggabii1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Maayong_Gabii/maayonggabii1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.2087469068899015 -t wav - -t wav - |
+sp1.1-sp1.1-maayonggabii2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Maayong_Gabii/maayonggabii2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.680378678948555 -t wav - -t wav - |
+sp1.1-sp1.1-maayonggabii3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Maayong_Gabii/maayonggabii3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.2053452799938742 -t wav - -t wav - |
+sp1.1-sp1.1-maayonggabii4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Maayong_Gabii/maayonggabii4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.6215776547371135 -t wav - -t wav - |
+sp1.1-sp1.1-maayonghapon10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Maayong_Hapon/maayonghapon10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.3635691779366157 -t wav - -t wav - |
+sp1.1-sp1.1-maayonghapon11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Maayong_Hapon/maayonghapon11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.6292829988496855 -t wav - -t wav - |
+sp1.1-sp1.1-maayonghapon12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Maayong_Hapon/maayonghapon12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5399774253899594 -t wav - -t wav - |
+sp1.1-sp1.1-maayonghapon1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Maayong_Hapon/maayonghapon1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.8162086424960435 -t wav - -t wav - |
+sp1.1-sp1.1-maayonghapon2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Maayong_Hapon/maayonghapon2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.7765410151010754 -t wav - -t wav - |
+sp1.1-sp1.1-maayonghapon4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Maayong_Hapon/maayonghapon4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9604412470115542 -t wav - -t wav - |
+sp1.1-sp1.1-maayongudto10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Maayong_Udto/maayongudto10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5473623358968442 -t wav - -t wav - |
+sp1.1-sp1.1-maayongudto11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Maayong_Udto/maayongudto11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.507853528348984 -t wav - -t wav - |
+sp1.1-sp1.1-maayongudto12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Maayong_Udto/maayongudto12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6918577510949491 -t wav - -t wav - |
+sp1.1-sp1.1-maayongudto1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Maayong_Udto/maayongudto1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9154358077363663 -t wav - -t wav - |
+sp1.1-sp1.1-maayongudto2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Maayong_Udto/maayongudto2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.24009021920560336 -t wav - -t wav - |
+sp1.1-sp1.1-maayongudto4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Maayong_Udto/maayongudto4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.6730243848287951 -t wav - -t wav - |
+sp1.1-sp1.1-mangayokougmenu10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Mangayo_Ko_Ug_Menu/mangayokougmenu10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5679570808593195 -t wav - -t wav - |
+sp1.1-sp1.1-mangayokougmenu11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Mangayo_Ko_Ug_Menu/mangayokougmenu11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6305976622852294 -t wav - -t wav - |
+sp1.1-sp1.1-mangayokougmenu12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Mangayo_Ko_Ug_Menu/mangayokougmenu12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6163865285581405 -t wav - -t wav - |
+sp1.1-sp1.1-mangayokougmenu1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Mangayo_Ko_Ug_Menu/mangayokougmenu1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.879756012003229 -t wav - -t wav - |
+sp1.1-sp1.1-mangayokougmenu2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Mangayo_Ko_Ug_Menu/mangayokougmenu2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.3623141105148701 -t wav - -t wav - |
+sp1.1-sp1.1-mangayokougmenu3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Mangayo_Ko_Ug_Menu/mangayokougmenu3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0120769852480744 -t wav - -t wav - |
+sp1.1-sp1.1-mangayokougmenu4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Mangayo_Ko_Ug_Menu/mangayokougmenu4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9064524307736166 -t wav - -t wav - |
+sp1.1-sp1.1-napulo10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Napulo/napulo10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.2268555586060524 -t wav - -t wav - |
+sp1.1-sp1.1-napulo11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Napulo/napulo11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9071533733820931 -t wav - -t wav - |
+sp1.1-sp1.1-napulo12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Napulo/napulo12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0170551856839667 -t wav - -t wav - |
+sp1.1-sp1.1-napulo1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Napulo/napulo1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7529577117456423 -t wav - -t wav - |
+sp1.1-sp1.1-napulo3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Napulo/napulo3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.2782967695770743 -t wav - -t wav - |
+sp1.1-sp1.1-palihog10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Palihog/palihog10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.23850787167900236 -t wav - -t wav - |
+sp1.1-sp1.1-palihog11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Palihog/palihog11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.3783051839450028 -t wav - -t wav - |
+sp1.1-sp1.1-palihog12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Palihog/palihog12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9119217372722916 -t wav - -t wav - |
+sp1.1-sp1.1-palihog1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Palihog/palihog1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.6574113503743084 -t wav - -t wav - |
+sp1.1-sp1.1-palihog2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Palihog/palihog2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.618155278119401 -t wav - -t wav - |
+sp1.1-sp1.1-palihog3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Palihog/palihog3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.378793146975374 -t wav - -t wav - |
+sp1.1-sp1.1-palihog4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Palihog/palihog4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.26053626557663156 -t wav - -t wav - |
+sp1.1-sp1.1-palihogkougmenu10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Palihog_Ko_Ug_Menu/palihogkougmenu10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3586838681231126 -t wav - -t wav - |
+sp1.1-sp1.1-palihogkougmenu11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Palihog_Ko_Ug_Menu/palihogkougmenu11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3325049136379967 -t wav - -t wav - |
+sp1.1-sp1.1-palihogkougmenu1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Palihog_Ko_Ug_Menu/palihogkougmenu1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6098737842795687 -t wav - -t wav - |
+sp1.1-sp1.1-palihogkougmenu2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Palihog_Ko_Ug_Menu/palihogkougmenu2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.4267448523299706 -t wav - -t wav - |
+sp1.1-sp1.1-palihogkougmenu4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Palihog_Ko_Ug_Menu/palihogkougmenu4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.6047739660389513 -t wav - -t wav - |
+sp1.1-sp1.1-pito10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Pito/pito10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.23798378762264588 -t wav - -t wav - |
+sp1.1-sp1.1-pito11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Pito/pito11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.4174419637595301 -t wav - -t wav - |
+sp1.1-sp1.1-pito12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Pito/pito12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.228883968939279 -t wav - -t wav - |
+sp1.1-sp1.1-pito1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Pito/pito1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6541763179106855 -t wav - -t wav - |
+sp1.1-sp1.1-pito3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Pito/pito3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9521625457345687 -t wav - -t wav - |
+sp1.1-sp1.1-pito4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Pito/pito4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.53256649354211 -t wav - -t wav - |
+sp1.1-sp1.1-sila10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Sila/sila10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.627546587597401 -t wav - -t wav - |
+sp1.1-sp1.1-sila11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Sila/sila11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6128872792942247 -t wav - -t wav - |
+sp1.1-sp1.1-sila1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Sila/sila1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.642619109127745 -t wav - -t wav - |
+sp1.1-sp1.1-sila2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Sila/sila2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8192553979031263 -t wav - -t wav - |
+sp1.1-sp1.1-sila3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Sila/sila3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5679207426630293 -t wav - -t wav - |
+sp1.1-sp1.1-silaakoangmgaanak10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Sila_Akoang_Mga_Anak/silaakoangmgaanak10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.4539114432744842 -t wav - -t wav - |
+sp1.1-sp1.1-silaakoangmgaanak11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Sila_Akoang_Mga_Anak/silaakoangmgaanak11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.809876832352069 -t wav - -t wav - |
+sp1.1-sp1.1-silaakoangmgaanak12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Sila_Akoang_Mga_Anak/silaakoangmgaanak12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.7017661695593607 -t wav - -t wav - |
+sp1.1-sp1.1-silaakoangmgaanak1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Sila_Akoang_Mga_Anak/silaakoangmgaanak1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5274604744256801 -t wav - -t wav - |
+sp1.1-sp1.1-silaakoangmgaanak2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Sila_Akoang_Mga_Anak/silaakoangmgaanak2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3712123578767994 -t wav - -t wav - |
+sp1.1-sp1.1-silaakoangmgaanak3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Sila_Akoang_Mga_Anak/silaakoangmgaanak3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.5707287746640016 -t wav - -t wav - |
+sp1.1-sp1.1-silaakoangmgaanak4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Sila_Akoang_Mga_Anak/silaakoangmgaanak4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9923481707221238 -t wav - -t wav - |
+sp1.1-sp1.1-siya10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Siya/siya10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9037804125811342 -t wav - -t wav - |
+sp1.1-sp1.1-siya11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Siya/siya11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.656340917535014 -t wav - -t wav - |
+sp1.1-sp1.1-siya1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Siya/siya1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.918055783820913 -t wav - -t wav - |
+sp1.1-sp1.1-siya2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Siya/siya2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1626227803732039 -t wav - -t wav - |
+sp1.1-sp1.1-siya3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Siya/siya3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.8325340323880616 -t wav - -t wav - |
+sp1.1-sp1.1-siya4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Siya/siya4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3681052201202224 -t wav - -t wav - |
+sp1.1-sp1.1-siyaangakoangasawa11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Siya_Ang_Akoang_Asawa/siyaangakoangasawa11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.8097079610335944 -t wav - -t wav - |
+sp1.1-sp1.1-siyaangakoangasawa12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Siya_Ang_Akoang_Asawa/siyaangakoangasawa12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3878339823883101 -t wav - -t wav - |
+sp1.1-sp1.1-siyaangakoangasawa1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Siya_Ang_Akoang_Asawa/siyaangakoangasawa1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.200571508681053 -t wav - -t wav - |
+sp1.1-sp1.1-siyaangakoangasawa3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Siya_Ang_Akoang_Asawa/siyaangakoangasawa3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6047589212380449 -t wav - -t wav - |
+sp1.1-sp1.1-siyaangakoangasawa4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Siya_Ang_Akoang_Asawa/siyaangakoangasawa4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0029758349074318 -t wav - -t wav - |
+sp1.1-sp1.1-siyam10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Siyam/siyam10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.25908001666567776 -t wav - -t wav - |
+sp1.1-sp1.1-siyam11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Siyam/siyam11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5283197440149299 -t wav - -t wav - |
+sp1.1-sp1.1-siyam12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Siyam/siyam12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.4198995372522272 -t wav - -t wav - |
+sp1.1-sp1.1-siyam1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Siyam/siyam1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8824732381934899 -t wav - -t wav - |
+sp1.1-sp1.1-siyam2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Siyam/siyam2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6872471177537645 -t wav - -t wav - |
+sp1.1-sp1.1-siyam3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Siyam/siyam3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1232296616673827 -t wav - -t wav - |
+sp1.1-sp1.1-siyam4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Siyam/siyam4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9844619868218625 -t wav - -t wav - |
+sp1.1-sp1.1-taas10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Taas/taas10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.6162888116677714 -t wav - -t wav - |
+sp1.1-sp1.1-taas11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Taas/taas11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1994637199525187 -t wav - -t wav - |
+sp1.1-sp1.1-taas12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Taas/taas12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8493184313495707 -t wav - -t wav - |
+sp1.1-sp1.1-taas1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Taas/taas1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.49634228375557443 -t wav - -t wav - |
+sp1.1-sp1.1-taas2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Taas/taas2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9430914033606497 -t wav - -t wav - |
+sp1.1-sp1.1-taas3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Taas/taas3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.721867076888459 -t wav - -t wav - |
+sp1.1-sp1.1-tanan10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Tanan/tanan10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.253024805845497 -t wav - -t wav - |
+sp1.1-sp1.1-tanan11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Tanan/tanan11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.7977036408627636 -t wav - -t wav - |
+sp1.1-sp1.1-tanan12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Tanan/tanan12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.7575604041096016 -t wav - -t wav - |
+sp1.1-sp1.1-tanan1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Tanan/tanan1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.6350240723474894 -t wav - -t wav - |
+sp1.1-sp1.1-tanan2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Tanan/tanan2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6807665674133285 -t wav - -t wav - |
+sp1.1-sp1.1-tanan3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Tanan/tanan3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9834545978308821 -t wav - -t wav - |
+sp1.1-sp1.1-too11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Too/too11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.4998832699256326 -t wav - -t wav - |
+sp1.1-sp1.1-too12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Too/too12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.9907980972029976 -t wav - -t wav - |
+sp1.1-sp1.1-too2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Too/too2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.536802406377955 -t wav - -t wav - |
+sp1.1-sp1.1-too3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Too/too3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.7993437441504734 -t wav - -t wav - |
+sp1.1-sp1.1-too4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Too/too4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.0070442494925076 -t wav - -t wav - |
+sp1.1-sp1.1-tulo10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Tulo/tulo10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.2135194021486804 -t wav - -t wav - |
+sp1.1-sp1.1-tulo11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Tulo/tulo11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5494298951866854 -t wav - -t wav - |
+sp1.1-sp1.1-tulo12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Tulo/tulo12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3853120912112706 -t wav - -t wav - |
+sp1.1-sp1.1-tulo2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Tulo/tulo2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.289536110772489 -t wav - -t wav - |
+sp1.1-sp1.1-tulo3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Tulo/tulo3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.8637320768911592 -t wav - -t wav - |
+sp1.1-sp1.1-ubos10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Ubos/ubos10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.8772976067674112 -t wav - -t wav - |
+sp1.1-sp1.1-ubos11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Ubos/ubos11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.4389763308548646 -t wav - -t wav - |
+sp1.1-sp1.1-ubos12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Ubos/ubos12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.8186134197648565 -t wav - -t wav - |
+sp1.1-sp1.1-ubos1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Ubos/ubos1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.1343815833955762 -t wav - -t wav - |
+sp1.1-sp1.1-ubos2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Ubos/ubos2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9018434694868376 -t wav - -t wav - |
+sp1.1-sp1.1-ubos3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Ubos/ubos3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6607723496557893 -t wav - -t wav - |
+sp1.1-sp1.1-unom11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Unom/unom11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3160318760430278 -t wav - -t wav - |
+sp1.1-sp1.1-unom12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Unom/unom12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.47275563378187724 -t wav - -t wav - |
+sp1.1-sp1.1-unom1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Unom/unom1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.2317863874914088 -t wav - -t wav - |
+sp1.1-sp1.1-unom3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Unom/unom3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.5216155757975696 -t wav - -t wav - |
+sp1.1-sp1.1-unom4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Unom/unom4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.003212827066274 -t wav - -t wav - |
+sp1.1-sp1.1-upat11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Upat/upat11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.708647045794761 -t wav - -t wav - |
+sp1.1-sp1.1-upat12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Upat/upat12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.21121758943939373 -t wav - -t wav - |
+sp1.1-sp1.1-upat1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Upat/upat1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.416248093518052 -t wav - -t wav - |
+sp1.1-sp1.1-upat2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Upat/upat2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.2476745448319588 -t wav - -t wav - |
+sp1.1-sp1.1-upat3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Upat/upat3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.9732294863607227 -t wav - -t wav - |
+sp1.1-sp1.1-upat4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Upat/upat4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.30218326865885653 -t wav - -t wav - |
+sp1.1-sp1.1-walaleft10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/WalaLeft/walaleft10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3430218064939232 -t wav - -t wav - |
+sp1.1-sp1.1-walaleft11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/WalaLeft/walaleft11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.8962572812169937 -t wav - -t wav - |
+sp1.1-sp1.1-walaleft12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/WalaLeft/walaleft12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.7661077189710138 -t wav - -t wav - |
+sp1.1-sp1.1-walaleft1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/WalaLeft/walaleft1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5964783011901404 -t wav - -t wav - |
+sp1.1-sp1.1-walaleft2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/WalaLeft/walaleft2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.639520570976467 -t wav - -t wav - |
+sp1.1-sp1.1-walaleft4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/WalaLeft/walaleft4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.5516616073468774 -t wav - -t wav - |
+sp1.1-sp1.1-walazero10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/WalaZero/walazero10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.7628406948870894 -t wav - -t wav - |
+sp1.1-sp1.1-walazero11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/WalaZero/walazero11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.26884203100901316 -t wav - -t wav - |
+sp1.1-sp1.1-walazero12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/WalaZero/walazero12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.2623784942826126 -t wav - -t wav - |
+sp1.1-sp1.1-walazero1f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/WalaZero/walazero1f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.867815457815631 -t wav - -t wav - |
+sp1.1-sp1.1-walazero2f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/WalaZero/walazero2f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.112644227271476 -t wav - -t wav - |
+sp1.1-sp1.1-walazero3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/WalaZero/walazero3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.3810741136753633 -t wav - -t wav - |
+sp1.1-sp1.1-walazero4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/WalaZero/walazero4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.44171604916957596 -t wav - -t wav - |
+sp1.1-sp1.1-walo10f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Walo/walo10f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.6704510113135083 -t wav - -t wav - |
+sp1.1-sp1.1-walo11f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Walo/walo11f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.1138737127924463 -t wav - -t wav - |
+sp1.1-sp1.1-walo12f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Walo/walo12f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 1.4187201527205069 -t wav - -t wav - |
+sp1.1-sp1.1-walo3f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Walo/walo3f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.24045689314439495 -t wav - -t wav - |
+sp1.1-sp1.1-walo4f sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Walo/walo4f.wav -t wav - speed 1.1 | sox -t wav - -t wav - speed 1.1 | sox --vol 0.6467769974769993 -t wav - -t wav - |
+sp1.1-taas4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Taas/taas4m.wav -t wav - speed 1.1 | sox --vol 0.7381674601226145 -t wav - -t wav - |
+sp1.1-taas5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Taas/taas5m.wav -t wav - speed 1.1 | sox --vol 1.2272191767448146 -t wav - -t wav - |
+sp1.1-taas6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Taas/taas6m.wav -t wav - speed 1.1 | sox --vol 1.9222408734137475 -t wav - -t wav - |
+sp1.1-taas7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Taas/taas7m.wav -t wav - speed 1.1 | sox --vol 0.43644132600433194 -t wav - -t wav - |
+sp1.1-tanan4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Tanan/tanan4m.wav -t wav - speed 1.1 | sox --vol 1.0882786911837368 -t wav - -t wav - |
+sp1.1-tanan6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Tanan/tanan6m.wav -t wav - speed 1.1 | sox --vol 1.4261582183661172 -t wav - -t wav - |
+sp1.1-tanan7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Tanan/tanan7m.wav -t wav - speed 1.1 | sox --vol 0.6772997602874151 -t wav - -t wav - |
+sp1.1-tanan8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Tanan/tanan8m.wav -t wav - speed 1.1 | sox --vol 1.3110980504401255 -t wav - -t wav - |
+sp1.1-tanan9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Tanan/tanan9m.wav -t wav - speed 1.1 | sox --vol 1.4956564569297957 -t wav - -t wav - |
+sp1.1-too4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Too/too4m.wav -t wav - speed 1.1 | sox --vol 0.9957905612200113 -t wav - -t wav - |
+sp1.1-too5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Too/too5m.wav -t wav - speed 1.1 | sox --vol 1.9631742093077853 -t wav - -t wav - |
+sp1.1-too6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Too/too6m.wav -t wav - speed 1.1 | sox --vol 0.6504420739965259 -t wav - -t wav - |
+sp1.1-too7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Too/too7m.wav -t wav - speed 1.1 | sox --vol 1.2823529668905214 -t wav - -t wav - |
+sp1.1-too8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Too/too8m.wav -t wav - speed 1.1 | sox --vol 0.9184679513231454 -t wav - -t wav - |
+sp1.1-too9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Too/too9m.wav -t wav - speed 1.1 | sox --vol 1.889200671181157 -t wav - -t wav - |
+sp1.1-tulo4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Tulo/tulo4m.wav -t wav - speed 1.1 | sox --vol 0.15216368129240074 -t wav - -t wav - |
+sp1.1-tulo5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Tulo/tulo5m.wav -t wav - speed 1.1 | sox --vol 0.2990896383325566 -t wav - -t wav - |
+sp1.1-tulo6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Tulo/tulo6m.wav -t wav - speed 1.1 | sox --vol 0.21906038769210728 -t wav - -t wav - |
+sp1.1-tulo7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Tulo/tulo7m.wav -t wav - speed 1.1 | sox --vol 1.7305928758927893 -t wav - -t wav - |
+sp1.1-tulo9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Tulo/tulo9m.wav -t wav - speed 1.1 | sox --vol 1.4656297189096927 -t wav - -t wav - |
+sp1.1-ubos4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Ubos/ubos4m.wav -t wav - speed 1.1 | sox --vol 1.2959842695531276 -t wav - -t wav - |
+sp1.1-ubos5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Ubos/ubos5m.wav -t wav - speed 1.1 | sox --vol 0.9810424348657655 -t wav - -t wav - |
+sp1.1-ubos6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Ubos/ubos6m.wav -t wav - speed 1.1 | sox --vol 0.5790710730532648 -t wav - -t wav - |
+sp1.1-ubos7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Ubos/ubos7m.wav -t wav - speed 1.1 | sox --vol 0.7137292915689223 -t wav - -t wav - |
+sp1.1-ubos9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples8/Ubos/ubos9m.wav -t wav - speed 1.1 | sox --vol 0.412775992907611 -t wav - -t wav - |
+sp1.1-unom4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Unom/unom4m.wav -t wav - speed 1.1 | sox --vol 1.8147028549725206 -t wav - -t wav - |
+sp1.1-unom5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/Unom/unom5m.wav -t wav - speed 1.1 | sox --vol 1.362765275990097 -t wav - -t wav - |
+sp1.1-unom6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Unom/unom6m.wav -t wav - speed 1.1 | sox --vol 1.4045536996485741 -t wav - -t wav - |
+sp1.1-unom7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples5/Unom/unom7m.wav -t wav - speed 1.1 | sox --vol 1.3286781114035555 -t wav - -t wav - |
+sp1.1-unom8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Unom/unom8m.wav -t wav - speed 1.1 | sox --vol 0.41121844201812596 -t wav - -t wav - |
+sp1.1-unom9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Unom/unom9m.wav -t wav - speed 1.1 | sox --vol 1.4030220648483616 -t wav - -t wav - |
+sp1.1-upat25mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Upat/upat25mSUS.wav -t wav - speed 1.1 | sox --vol 0.5828532510941464 -t wav - -t wav - |
+sp1.1-upat4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Upat/upat4m.wav -t wav - speed 1.1 | sox --vol 0.17144418873206144 -t wav - -t wav - |
+sp1.1-upat5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/Upat/upat5m.wav -t wav - speed 1.1 | sox --vol 1.5114543882136777 -t wav - -t wav - |
+sp1.1-upat6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Upat/upat6m.wav -t wav - speed 1.1 | sox --vol 1.6067544647855678 -t wav - -t wav - |
+sp1.1-upat7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/Upat/upat7m.wav -t wav - speed 1.1 | sox --vol 0.9407307571268725 -t wav - -t wav - |
+sp1.1-upat8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Upat/upat8m.wav -t wav - speed 1.1 | sox --vol 0.6989832455660996 -t wav - -t wav - |
+sp1.1-upat9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Upat/upat9m.wav -t wav - speed 1.1 | sox --vol 1.4918216341468442 -t wav - -t wav - |
+sp1.1-walaleft4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/WalaLeft/walaleft4m.wav -t wav - speed 1.1 | sox --vol 1.9272658537335858 -t wav - -t wav - |
+sp1.1-walaleft5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples2/WalaLeft/walaleft5m.wav -t wav - speed 1.1 | sox --vol 0.968035563459306 -t wav - -t wav - |
+sp1.1-walaleft6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/WalaLeft/walaleft6m.wav -t wav - speed 1.1 | sox --vol 1.2789905814585725 -t wav - -t wav - |
+sp1.1-walaleft7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/WalaLeft/walaleft7m.wav -t wav - speed 1.1 | sox --vol 1.7431070263602226 -t wav - -t wav - |
+sp1.1-walaleft8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples4/WalaLeft/walaleft8m.wav -t wav - speed 1.1 | sox --vol 1.377775541994628 -t wav - -t wav - |
+sp1.1-walaleft9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/WalaLeft/walaleft9m.wav -t wav - speed 1.1 | sox --vol 1.0556041929725715 -t wav - -t wav - |
+sp1.1-walazero4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/WalaZero/walazero4m.wav -t wav - speed 1.1 | sox --vol 1.0687417101704337 -t wav - -t wav - |
+sp1.1-walazero5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples10/WalaZero/walazero5m.wav -t wav - speed 1.1 | sox --vol 1.7152898962994743 -t wav - -t wav - |
+sp1.1-walazero7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/WalaZero/walazero7m.wav -t wav - speed 1.1 | sox --vol 0.465949546921411 -t wav - -t wav - |
+sp1.1-walazero8m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/WalaZero/walazero8m.wav -t wav - speed 1.1 | sox --vol 0.2036215584446071 -t wav - -t wav - |
+sp1.1-walazero9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/WalaZero/walazero9m.wav -t wav - speed 1.1 | sox --vol 0.31550567243807387 -t wav - -t wav - |
+sp1.1-walo4m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Walo/walo4m.wav -t wav - speed 1.1 | sox --vol 1.3484390254373273 -t wav - -t wav - |
+sp1.1-walo5m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Walo/walo5m.wav -t wav - speed 1.1 | sox --vol 0.19258866331710994 -t wav - -t wav - |
+sp1.1-walo6m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples1/Walo/walo6m.wav -t wav - speed 1.1 | sox --vol 1.9322446771259334 -t wav - -t wav - |
+sp1.1-walo7m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples7/Walo/walo7m.wav -t wav - speed 1.1 | sox --vol 1.5806366276181414 -t wav - -t wav - |
+sp1.1-walo9m sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples6/Walo/walo9m.wav -t wav - speed 1.1 | sox --vol 0.32667403580910037 -t wav - -t wav - |

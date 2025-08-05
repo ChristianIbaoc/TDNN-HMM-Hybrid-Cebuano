@@ -1,0 +1,68 @@
+<UNK> 1.0	spn
+!SIL 1.0	sil
+a 1.0	a
+ad 1.0	a d
+ang 1.0	a ng
+as 1.0	a s
+ba 1.0	b a
+bi 1.0	b i
+bos 1.0	b o s
+bun 1.0	b u n
+da 1.0	d a
+di 1.0	d i
+did 1.0	d i d
+du 1.0	d u
+eng 1.0	i ng
+ga 1.0	g a
+ha 1.0	h a
+han 1.0	h a n
+hang 1.0	h a ng
+hog 1.0	h o g
+i 1.0	i
+ka 1.0	k a
+kaw 1.0	k a w
+ko 1.0	k o
+kod 1.0	k o d
+ku 1.0	k u
+la 1.0	l a
+law 1.0	l a w
+li 1.0	l i
+lish 1.0	l i sh
+lo 1.0	l o
+log 1.0	l o g
+ma 1.0	m a
+mag 1.0	m a g
+me 1.0	m e
+mga 1.0	m a ng a
+mo 1.0	m o
+mus 1.0	m u s
+na 1.0	n a
+nak 1.0	n a k
+nan 1.0	n a n
+nang 1.0	n a ng
+nga 1.0	ng a
+ngan 1.0	ng a n
+ni 1.0	n i
+ning 1.0	n i ng
+nom 1.0	n o m
+nu 1.0	n u
+o 1.0	o
+pa 1.0	p a
+pat 1.0	p a t
+pi 1.0	p i
+pon 1.0	p o n
+pu 1.0	p u
+sa 1.0	s a
+si 1.0	s i
+ta 1.0	t a
+tag 1.0	t a g
+to 1.0	t o
+tu 1.0	t u
+u 1.0	u
+ud 1.0	u d
+ug 1.0	u g
+wa 1.0	w a
+ya 1.0	y a
+yam 1.0	y a m
+yo 1.0	y o
+yong 1.0	y o ng

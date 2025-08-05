@@ -1,0 +1,4 @@
+sp1.1-sp0.9-m2 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_perturbed/cmvn_trainaug_sp.ark:84384
+sp1.1-sp0.9-m20 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_perturbed/cmvn_trainaug_sp.ark:84639
+sp1.1-sp0.9-m21 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_perturbed/cmvn_trainaug_sp.ark:84894
+sp1.1-sp0.9-m22 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_perturbed/cmvn_trainaug_sp.ark:85149

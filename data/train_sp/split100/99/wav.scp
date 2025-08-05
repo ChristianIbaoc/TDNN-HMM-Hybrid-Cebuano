@@ -1,0 +1,2 @@
+sp1.1-atubangan25mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples3/Atubangan/atubangan25mSUS.wav -t wav - speed 1.1 |
+sp1.1-upat25mSUS sox -t wav /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/samples9/Upat/upat25mSUS.wav -t wav - speed 1.1 |

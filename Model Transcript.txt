@@ -1,0 +1,202 @@
+f6-akoa a ko a 
+m26-akoa a ko a 
+m3-akoa a ko 
+m4-akoa a tu ha i ta 
+m15-akoananganak a ko a nang a nak 
+m1-akoananganak a ko as
+m2-akoananganak a ko a a nak
+f6-akoananginahan a ko a nang i na han 
+m1-akoananginahan a ko ang i na han ha 
+m26-akoananginahan a ko a nang i na hang 
+m2-akoananginahan a ko a eng ya
+m30-akoananginahan a ko a nang i na han 
+m1-akoangamahan a sa ko ang to ha 
+m21-akoangamahan a ko ang a ma han 
+m2-akoangamahan a ko as ma han 
+m6-akoangamahan a ko ang a ma han 
+m1-akoanganak li kod li ma 
+m22-akoanganak a ko ang a nak 
+m29-akoanganak a ko ang a nak 
+m2-akoanganak a ko a nak
+m30-akoang a ko ang 
+m31-akoang a ko ang 
+m3-akoang a ko 
+m4-akoang a ko ad 
+f2-ako a ko 
+f9-ako a ko
+m3-ako u pat 
+m4-ako ba ta 
+m29-amahan a ma han 
+m3-amahan a du ha han 
+m4-amahan ba han 
+m5-amahan a ma han 
+m30-anak a nak 
+m3-anak ba ta 
+m4-anak ba i ta 
+m5-anak a nak 
+m27-asaang a sa ang 
+m2-asaang did to a sa 
+m30-asaang a sa ang 
+m3-asawa a sa ko 
+m4-asawa a si ya 
+m7-asawa a sa wa 
+m9-asawa a sa wa 
+m11-atubangan a tu ba ngan 
+m14-atubangan a tu ba ngan 
+m2-atubangan a ko mo hang 
+m14-bana ba na 
+m3-bana wa la 
+m4-bana ba 
+m5-bana ba na 
+f5-bata ba ta 
+m14-bata ba ta 
+m3-bata u pa 
+m4-bata si mus ta 
+m22-dani da ni 
+m2-dani did pi 
+m5-dani da ni 
+m24-didto did to 
+m2-didto li to
+m6-didto did to 
+f2-duha du ha 
+m3-duha tu lo 
+m4-duha u pa
+m50-duha du ha 
+m3-ikaw li ko 
+m4-ikaw i ka 
+m6-ikaw i kaw 
+m7-ikaw i kaw 
+m3-imoha pi i ta 
+m4-imoha ba la ko 
+m50-imoha i mo ha 
+m8-imoha i mo ha 
+m14-imohang i mo hang 
+m18-imohang i mo hang 
+m3-imohang i mo ud 
+m4-imohang i a han 
+f8-inahan i na han 
+m15-inahan i na han 
+m3-inahan si
+m4-inahan did nan 
+f6-isa i sa 
+m23-isa i sa 
+m3-isa i si 
+m4-isa i sa 
+m14-iyahaningbana i ya ha ning ba na 
+m1-iyahaningbana did si ma
+m2-iyahaningbana si ya ha ning u hang ta 
+m9-iyahaningbana i ya ha ning ba na 
+m18-kabalokamagenglish ka ba lo ka mag eng li 
+m1-kabalokamagenglish ka si mo hog eng lish 
+m2-kabalokamagenglish a ma lo ka did li 
+m9-kabalokamagenglish ka ba lo ka mag eng lish 
+m1-kabalokamagtagalog ka ba li ko mag ka 
+m2-kabalokamagtagalog ka ba lo ka ta ta nan 
+m5-kabalokamagtagalog ka ba lo ka mag ta ga log 
+m6-kabalokamagtagalog ka ba lo ka mag ta ga log 
+m10-kumustaka ku mus ta ka 
+m18-kumustaka ku mus ta ka 
+m3-kumustaka di mus la 
+m4-kumustaka bos sa ta 
+f4-likod li kod 
+f6-likod li kod 
+m2-likod di kod 
+m17-lima li ma 
+m21-lima li ma 
+m3-lima li ko 
+m4-lima li ma 
+f1-maayongadlaw ma a yong ad law 
+m26-maayongadlaw ma a yong ad law 
+m3-maayongadlaw ma lo li hog me 
+m4-maayongadlaw li hog si la 
+m26-maayongbuntag ma a yong bun tag 
+m3-maayongbuntag ma a yong si 
+m4-maayongbuntag bi a yong bi 
+m50-maayongbuntag ma a yong bun tag 
+f6-maayonggabii ma a yong ga bi 
+m1-maayonggabii ma a yong ga bi 
+m22-maayonggabii ma a yong ga bi 
+m25-maayonggabii ma a yong ga bi 
+m9-maayonggabii ma a yong ga bi lish 
+f3-maayonghapon ma a yong ha pon 
+m19-maayonghapon ma a yong ha pon 
+m3-maayonghapon ma a yong kod 
+m4-maayonghapon la a yo a ko 
+m8-maayonghapon ma a yo a pon 
+f3-maayongudto ma a yong ud to 
+m12-maayongudto ma a yong ud to 
+m3-maayongudto ma a yong u mus
+m4-maayongudto ma a yong ba ta 
+f5-mangayokougmenu ma nga yo ko ug me nu 
+m10-mangayokougmenu ma nga yo ko ug me nu 
+m11-mangayokougmenu ma nga yo ko ug me 
+m32-mangayokougmenu ma nga yo ko ug me 
+f4-napulo na pu lo 
+m18-napulo na pu lo 
+m1-napulo li i lo
+m2-napulo ba lo 
+f12-palihogkougmenu pa li hog ko ug me 
+f3-palihogkougmenu pa li hog ko ug me nu 
+f7-palihogkougmenu pa li hog ko ug me nu 
+m17-palihog pa li hog 
+m1-palihog bi si hog 
+m20-palihog pa li hog  
+m2-palihog pa li 
+f2-pito pi to 
+m10-pito pi to 
+m2-pito li kaw 
+m1-silaakoangmgaanak si ya a ko ang i na li ma
+m28-silaakoangmgaanak si la a ko ang ma nga a nak 
+m2-silaakoangmgaanak si ya 
+m31-silaakoangmgaanak si la a ko ang ma nga a nak 
+m6-silaakoangmgaanak si la a ko ang ma nga a na 
+f4-sila si la 
+m11-sila si la 
+m3-sila i sa 
+m4-sila si di 
+f10-siyaangakoangasawa si ya ang a ko ang a sa wa 
+m1-siyaangakoangasawa si ya a ko a a sa wa 
+m2-siyaangakoangasawa si ya ang a ko ang 
+m32-siyaangakoangasawa si ya ang a ko ang a sa wa 
+f12-siya si ya la 
+f7-siya si ya 
+m19-siya si ya  
+m3-siya si ga 
+m4-siya si ya 
+f6-siyam si yam 
+m21-siyam si yam 
+m2-siyam si bos 
+m16-taas ta as 
+m25-taas ta as  
+m2-taas si as 
+f4-tanan ta nan 
+m15-tanan ta nan 
+m1-tanan i kod
+m2-tanan wa la 
+f10-too to o  
+m10-too to o  
+m2-too to 
+f1-tulo tu lo  
+m3-tulo 
+m4-tulo si lo 
+m8-tulo tu lo 
+f4-ubos u bos 
+m2-ubos ku bos 
+m8-ubos u bos 
+f10-unom u nom  
+m25-unom u nom 
+m2-unom u ni 
+f10-upat u pat  
+m30-upat u pat 
+m3-upat a ko 
+m4-upat i u pat 
+f7-walaleft wa la  
+m25-walaleft wa la 
+m2-walaleft wa lo
+m3-walanone wa lish
+m4-walanone wa la
+f7-walazero wa la  
+m18-walazero wa la ko 
+f1-walo wa lo 
+m2-walo wa hog 
+m50-walo wa lo

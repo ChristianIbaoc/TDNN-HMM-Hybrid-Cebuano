@@ -1,0 +1,69 @@
+!SIL !SIL sil_S
+<UNK> <UNK> spn_S
+<eps> <eps> sil
+a a a_S
+ad ad a_B d_E
+ang ang a_B ng_E
+as as a_B s_E
+ba ba b_B a_E
+bi bi b_B i_E
+bos bos b_B o_I s_E
+bun bun b_B u_I n_E
+da da d_B a_E
+di di d_B i_E
+did did d_B i_I d_E
+du du d_B u_E
+eng eng i_B ng_E
+ga ga g_B a_E
+ha ha h_B a_E
+han han h_B a_I n_E
+hang hang h_B a_I ng_E
+hog hog h_B o_I g_E
+i i i_S
+ka ka k_B a_E
+kaw kaw k_B a_I w_E
+ko ko k_B o_E
+kod kod k_B o_I d_E
+ku ku k_B u_E
+la la l_B a_E
+law law l_B a_I w_E
+li li l_B i_E
+lish lish l_B i_I sh_E
+lo lo l_B o_E
+log log l_B o_I g_E
+ma ma m_B a_E
+mag mag m_B a_I g_E
+me me m_B e_E
+mga mga m_B a_I ng_I a_E
+mo mo m_B o_E
+mus mus m_B u_I s_E
+na na n_B a_E
+nak nak n_B a_I k_E
+nan nan n_B a_I n_E
+nang nang n_B a_I ng_E
+nga nga ng_B a_E
+ngan ngan ng_B a_I n_E
+ni ni n_B i_E
+ning ning n_B i_I ng_E
+nom nom n_B o_I m_E
+nu nu n_B u_E
+o o o_S
+pa pa p_B a_E
+pat pat p_B a_I t_E
+pi pi p_B i_E
+pon pon p_B o_I n_E
+pu pu p_B u_E
+sa sa s_B a_E
+si si s_B i_E
+ta ta t_B a_E
+tag tag t_B a_I g_E
+to to t_B o_E
+tu tu t_B u_E
+u u u_S
+ud ud u_B d_E
+ug ug u_B g_E
+wa wa w_B a_E
+ya ya y_B a_E
+yam yam y_B a_I m_E
+yo yo y_B o_E
+yong yong y_B o_I ng_E

@@ -1,0 +1,6 @@
+sp0.9-sp1.1-m7 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_perturbed/cmvn_trainaug_sp.ark:37479
+sp0.9-sp1.1-m8 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_perturbed/cmvn_trainaug_sp.ark:37733
+sp0.9-sp1.1-m9 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_perturbed/cmvn_trainaug_sp.ark:37987
+sp0.9-sp1.1-mSUS25 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_perturbed/cmvn_trainaug_sp.ark:38245
+sp0.9-sp1.1-mSUS26 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_perturbed/cmvn_trainaug_sp.ark:38503
+sp0.9-sp1.1-mSUS31 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc_perturbed/cmvn_trainaug_sp.ark:38761

@@ -1,0 +1,117 @@
+Directory: exp/mono/decode
+Lowest WER: 59.82
+File: exp/mono/decode/wer_5_0.0
+Full content:
+compute-wer --text --mode=present ark:exp/mono/decode/scoring/text.filt ark:exp/mono/decode/scoring/5.0.0.txt 
+%WER 59.82 [ 454 / 759, 54 ins, 158 del, 242 sub ]
+%SER 87.68 [ 185 / 211 ]
+Scored 211 sentences, 0 not present in hyp.
+---
+Directory: exp/tri1/decode
+Lowest WER: 39.39
+File: exp/tri1/decode/wer_9_1.0
+Full content:
+compute-wer --text --mode=present ark:exp/tri1/decode/scoring/text.filt ark:exp/tri1/decode/scoring/9.1.0.txt 
+%WER 39.39 [ 299 / 759, 22 ins, 137 del, 140 sub ]
+%SER 67.30 [ 142 / 211 ]
+Scored 211 sentences, 0 not present in hyp.
+---
+Directory: exp/tri2/decode
+Lowest WER: 36.23
+File: exp/tri2/decode/wer_11_1.0
+Full content:
+compute-wer --text --mode=present ark:exp/tri2/decode/scoring/text.filt ark:exp/tri2/decode/scoring/11.1.0.txt 
+%WER 36.23 [ 275 / 759, 29 ins, 127 del, 119 sub ]
+%SER 62.56 [ 132 / 211 ]
+Scored 211 sentences, 0 not present in hyp.
+---
+Directory: exp/tri3/decode
+Lowest WER: 39.26
+File: exp/tri3/decode/wer_13_1.0
+Full content:
+compute-wer --text --mode=present ark:exp/tri3/decode/scoring/text.filt ark:exp/tri3/decode/scoring/13.1.0.txt 
+%WER 39.26 [ 298 / 759, 25 ins, 130 del, 143 sub ]
+%SER 62.09 [ 131 / 211 ]
+Scored 211 sentences, 0 not present in hyp.
+---
+Directory: exp/tri3_mm0.1/decode_eval_1.mdl_sw1_tg
+Lowest WER: 39.00
+File: exp/tri3_mm0.1/decode_eval_1.mdl_sw1_tg/wer_17_0.0
+Full content:
+compute-wer --text --mode=present ark:exp/tri3_mm0.1/decode_eval_1.mdl_sw1_tg/scoring/text.filt ark:exp/tri3_mm0.1/decode_eval_1.mdl_sw1_tg/scoring/17.0.0.txt 
+%WER 39.00 [ 296 / 759, 19 ins, 132 del, 145 sub ]
+%SER 60.66 [ 128 / 211 ]
+Scored 211 sentences, 0 not present in hyp.
+---
+Directory: exp/tri3_mm0.1/decode_eval_2.mdl_sw1_tg
+Lowest WER: 39.39
+File: exp/tri3_mm0.1/decode_eval_2.mdl_sw1_tg/wer_14_1.0
+Full content:
+compute-wer --text --mode=present ark:exp/tri3_mm0.1/decode_eval_2.mdl_sw1_tg/scoring/text.filt ark:exp/tri3_mm0.1/decode_eval_2.mdl_sw1_tg/scoring/14.1.0.txt 
+%WER 39.39 [ 299 / 759, 21 ins, 133 del, 145 sub ]
+%SER 61.61 [ 130 / 211 ]
+Scored 211 sentences, 0 not present in hyp.
+---
+Directory: exp/tri3_mm0.1/decode_eval_3.mdl_sw1_tg
+Lowest WER: 39.66
+File: exp/tri3_mm0.1/decode_eval_3.mdl_sw1_tg/wer_17_0.5
+Full content:
+compute-wer --text --mode=present ark:exp/tri3_mm0.1/decode_eval_3.mdl_sw1_tg/scoring/text.filt ark:exp/tri3_mm0.1/decode_eval_3.mdl_sw1_tg/scoring/17.0.5.txt 
+%WER 39.66 [ 301 / 759, 19 ins, 138 del, 144 sub ]
+%SER 60.66 [ 128 / 211 ]
+Scored 211 sentences, 0 not present in hyp.
+---
+Directory: exp/tri3_mm0.1/decode_eval_4.mdl_sw1_tg
+Lowest WER: 39.53
+File: exp/tri3_mm0.1/decode_eval_4.mdl_sw1_tg/wer_8_0.0
+Full content:
+compute-wer --text --mode=present ark:exp/tri3_mm0.1/decode_eval_4.mdl_sw1_tg/scoring/text.filt ark:exp/tri3_mm0.1/decode_eval_4.mdl_sw1_tg/scoring/8.0.0.txt 
+%WER 39.53 [ 300 / 759, 46 ins, 93 del, 161 sub ]
+%SER 63.51 [ 134 / 211 ]
+Scored 211 sentences, 0 not present in hyp.
+---
+Directory: exp/tri3_fmmi_b0.1/decode_eval_it1_sw1_tg
+Lowest WER: 38.21
+File: exp/tri3_fmmi_b0.1/decode_eval_it1_sw1_tg/wer_12_0.5
+Full content:
+compute-wer --text --mode=present ark:exp/tri3_fmmi_b0.1/decode_eval_it1_sw1_tg/scoring/text.filt ark:exp/tri3_fmmi_b0.1/decode_eval_it1_sw1_tg/scoring/12.0.5.txt 
+%WER 38.21 [ 290 / 759, 30 ins, 115 del, 145 sub ]
+%SER 60.66 [ 128 / 211 ]
+Scored 211 sentences, 0 not present in hyp.
+---
+Directory: exp/tri3_fmmi_b0.1/decode_eval_it2_sw1_tg
+Lowest WER: 38.47
+File: exp/tri3_fmmi_b0.1/decode_eval_it2_sw1_tg/wer_13_0.0
+Full content:
+compute-wer --text --mode=present ark:exp/tri3_fmmi_b0.1/decode_eval_it2_sw1_tg/scoring/text.filt ark:exp/tri3_fmmi_b0.1/decode_eval_it2_sw1_tg/scoring/13.0.0.txt 
+%WER 38.47 [ 292 / 759, 30 ins, 118 del, 144 sub ]
+%SER 61.14 [ 129 / 211 ]
+Scored 211 sentences, 0 not present in hyp.
+---
+Directory: exp/tri3_fmmi_b0.1/decode_eval_it3_sw1_tg
+Lowest WER: 38.74
+File: exp/tri3_fmmi_b0.1/decode_eval_it3_sw1_tg/wer_11_1.0
+Full content:
+compute-wer --text --mode=present ark:exp/tri3_fmmi_b0.1/decode_eval_it3_sw1_tg/scoring/text.filt ark:exp/tri3_fmmi_b0.1/decode_eval_it3_sw1_tg/scoring/11.1.0.txt 
+%WER 38.74 [ 294 / 759, 28 ins, 116 del, 150 sub ]
+%SER 61.14 [ 129 / 211 ]
+Scored 211 sentences, 0 not present in hyp.
+---
+Directory: exp/tri3_fmmi_b0.1/decode_eval_it4_sw1_tg
+Lowest WER: 39.79
+File: exp/tri3_fmmi_b0.1/decode_eval_it4_sw1_tg/wer_15_0.5
+Full content:
+compute-wer --text --mode=present ark:exp/tri3_fmmi_b0.1/decode_eval_it4_sw1_tg/scoring/text.filt ark:exp/tri3_fmmi_b0.1/decode_eval_it4_sw1_tg/scoring/15.0.5.txt 
+%WER 39.79 [ 302 / 759, 27 ins, 139 del, 136 sub ]
+%SER 59.72 [ 126 / 211 ]
+Scored 211 sentences, 0 not present in hyp.
+---
+Directory: exp/chain/tdnn1_sp/decode_test_sw1_tg
+Lowest WER: 28.33
+File: exp/chain/tdnn1_sp/decode_test_sw1_tg/wer_5_0.0
+Full content:
+compute-wer --text --mode=present ark:exp/chain/tdnn1_sp/decode_test_sw1_tg/scoring/text.filt ark:exp/chain/tdnn1_sp/decode_test_sw1_tg/scoring/5.0.0.txt 
+%WER 28.33 [ 215 / 759, 30 ins, 100 del, 85 sub ]
+%SER 54.03 [ 114 / 211 ]
+Scored 211 sentences, 0 not present in hyp.
+---

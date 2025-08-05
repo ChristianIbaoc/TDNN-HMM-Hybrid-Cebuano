@@ -1,0 +1,6 @@
+f1 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc/cmvn_train.ark:3
+f10 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc/cmvn_train.ark:246
+f11 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc/cmvn_train.ark:489
+f12 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc/cmvn_train.ark:732
+f2 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc/cmvn_train.ark:974
+f3 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc/cmvn_train.ark:1216

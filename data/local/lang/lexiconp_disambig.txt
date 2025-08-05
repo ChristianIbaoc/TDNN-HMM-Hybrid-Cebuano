@@ -1,0 +1,68 @@
+<UNK>	1.0	spn_S
+!SIL	1.0	sil_S
+a	1.0	a_S
+ad	1.0	a_B d_E
+ang	1.0	a_B ng_E
+as	1.0	a_B s_E
+ba	1.0	b_B a_E
+bi	1.0	b_B i_E
+bos	1.0	b_B o_I s_E
+bun	1.0	b_B u_I n_E
+da	1.0	d_B a_E
+di	1.0	d_B i_E
+did	1.0	d_B i_I d_E
+du	1.0	d_B u_E
+eng	1.0	i_B ng_E
+ga	1.0	g_B a_E
+ha	1.0	h_B a_E
+han	1.0	h_B a_I n_E
+hang	1.0	h_B a_I ng_E
+hog	1.0	h_B o_I g_E
+i	1.0	i_S
+ka	1.0	k_B a_E
+kaw	1.0	k_B a_I w_E
+ko	1.0	k_B o_E
+kod	1.0	k_B o_I d_E
+ku	1.0	k_B u_E
+la	1.0	l_B a_E
+law	1.0	l_B a_I w_E
+li	1.0	l_B i_E
+lish	1.0	l_B i_I sh_E
+lo	1.0	l_B o_E
+log	1.0	l_B o_I g_E
+ma	1.0	m_B a_E
+mag	1.0	m_B a_I g_E
+me	1.0	m_B e_E
+mga	1.0	m_B a_I ng_I a_E
+mo	1.0	m_B o_E
+mus	1.0	m_B u_I s_E
+na	1.0	n_B a_E
+nak	1.0	n_B a_I k_E
+nan	1.0	n_B a_I n_E
+nang	1.0	n_B a_I ng_E
+nga	1.0	ng_B a_E
+ngan	1.0	ng_B a_I n_E
+ni	1.0	n_B i_E
+ning	1.0	n_B i_I ng_E
+nom	1.0	n_B o_I m_E
+nu	1.0	n_B u_E
+o	1.0	o_S
+pa	1.0	p_B a_E
+pat	1.0	p_B a_I t_E
+pi	1.0	p_B i_E
+pon	1.0	p_B o_I n_E
+pu	1.0	p_B u_E
+sa	1.0	s_B a_E
+si	1.0	s_B i_E
+ta	1.0	t_B a_E
+tag	1.0	t_B a_I g_E
+to	1.0	t_B o_E
+tu	1.0	t_B u_E
+u	1.0	u_S
+ud	1.0	u_B d_E
+ug	1.0	u_B g_E
+wa	1.0	w_B a_E
+ya	1.0	y_B a_E
+yam	1.0	y_B a_I m_E
+yo	1.0	y_B o_E
+yong	1.0	y_B o_I ng_E

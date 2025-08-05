@@ -1,0 +1,18 @@
+Directory: exp/chain/tdnn1_sp/decode_test_sw1_tg
+Lowest WER: 18.60
+File: exp/chain/tdnn1_sp/decode_test_sw1_tg/wer_14_0.0
+Full content:
+compute-wer --text --mode=present ark:exp/chain/tdnn1_sp/decode_test_sw1_tg/scoring/text.filt ark:exp/chain/tdnn1_sp/decode_test_sw1_tg/scoring/14.0.0.txt 
+%WER 18.60 [ 32 / 172, 3 ins, 17 del, 12 sub ]
+%SER 21.70 [ 23 / 106 ]
+Scored 106 sentences, 0 not present in hyp.
+---
+Directory: exp/chain/tdnn1_sp_online/decode_test_sw1_tg
+Lowest WER: 18.02
+File: exp/chain/tdnn1_sp_online/decode_test_sw1_tg/wer_11_0.0
+Full content:
+compute-wer --text --mode=present ark:exp/chain/tdnn1_sp_online/decode_test_sw1_tg/scoring/text.filt ark:exp/chain/tdnn1_sp_online/decode_test_sw1_tg/scoring/11.0.0.txt 
+%WER 18.02 [ 31 / 172, 4 ins, 14 del, 13 sub ]
+%SER 20.75 [ 22 / 106 ]
+Scored 106 sentences, 0 not present in hyp.
+---

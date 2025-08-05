@@ -1,0 +1,6 @@
+m2 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc/cmvn_test.ark:5582
+m20 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc/cmvn_test.ark:5825
+m21 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc/cmvn_test.ark:6068
+m22 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc/cmvn_test.ark:6311
+m23 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc/cmvn_test.ark:6554
+m24 /mnt/KINGSTON/Kaldi/kaldi/egs/phoneTest/mfcc/cmvn_test.ark:6797

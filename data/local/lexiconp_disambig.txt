@@ -1,0 +1,5 @@
+<oov>	1.0	<oov>_S
+MAAYONG	1.0	M_B A_I AY_I YO_I NG_E
+BUNTAG	1.0	B_B U_I N_I T_I AH_I G_E
+GABII	1.0	G_B AH_I BI_I I_E
+DIHA	1.0	D_B I_I HA_E
